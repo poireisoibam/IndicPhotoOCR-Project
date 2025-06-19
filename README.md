@@ -25,7 +25,7 @@ IndicPhotoOCR-Project/
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/IndicPhotoOCR-Project.git
+git clone https://github.com/poireisoibam/IndicPhotoOCR-Project.git
 cd IndicPhotoOCR-Project
 
 # Set up virtual environment (recommended)
@@ -40,12 +40,12 @@ pip install -r requirements.txt
 
 ### Run OCR on a single image:
 ```bash
-python scripts/test.py
+python scripts/test_5.py
 ```
 
 ### Run OCR on a folder of images:
 ```bash
-python scripts/batch_ocr.py
+python scripts/ocr_outputs.py
 ```
 
 ## 📦 Output Format
