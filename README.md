@@ -40,7 +40,7 @@ pip install -r requirements.txt
 
 ### Run OCR on a single image:
 ```bash
-python scripts/test_ocr_5.py
+python scripts/single_image_test/test_ocr_5.py
 ```
 
 ### Run OCR on a folder of images:
