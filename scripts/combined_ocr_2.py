@@ -23,7 +23,7 @@ for filename in os.listdir(image_folder):
         try:
             results = ocr_system.ocr(image_path)
         except Exception as e:
-            print(f"❌ Failed on {filename}: {e}")
+            print(f" Failed on {filename}: {e}")
             continue
 
         # Create structure
@@ -33,12 +33,12 @@ for filename in os.listdir(image_folder):
         if isinstance(results, dict):
             for idx, (key, item) in enumerate(results.items()):
                 if not isinstance(item, dict):
-                    print(f"⚠️ Skipping polygon {idx} in {filename}: Not a dict")
+                    print(f" Skipping polygon {idx} in {filename}: Not a dict")
                     continue
 
                 coords = item.get("coordinates")
                 if not coords:
-                    print(f"⚠️ No coordinates in polygon {idx} of {filename}")
+                    print(f" No coordinates in polygon {idx} of {filename}")
                     continue
 
                 try:
@@ -49,13 +49,13 @@ for filename in os.listdir(image_folder):
                     }
                     final_results[image_id]["annotations"][f"polygon_{idx}"] = polygon
                 except Exception as e:
-                    print(f"⚠️ Error in polygon {idx} of {filename}: {e}")
+                    print(f" Error in polygon {idx} of {filename}: {e}")
         else:
-            print(f"⚠️ Skipping {filename}: OCR did not return a dict")
+            print(f" Skipping {filename}: OCR did not return a dict")
 
 
 # Save JSON
 with open(combined_json_path, "w", encoding="utf-8") as f:
     json.dump(final_results, f, ensure_ascii=False, indent=2)
 
-print(f"\n✅ Output saved to: {combined_json_path}")
+print(f"\n Output saved to: {combined_json_path}")
