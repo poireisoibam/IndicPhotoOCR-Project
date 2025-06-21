@@ -18,7 +18,7 @@ final_results = {}
 for filename in os.listdir(image_folder):
     if filename.lower().endswith(valid_exts):
         image_path = os.path.join(image_folder, filename)
-        print(f"\n📷 Processing: {image_path}")
+        print(f"\n Processing: {image_path}")
         
         try:
             results = ocr_system.ocr(image_path)
