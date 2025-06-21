@@ -22,7 +22,7 @@ with open(output_csv, mode='w', newline='', encoding='utf-8') as csvfile:
 
         image_path = os.path.join(image_folder, filename)
         image_id = os.path.splitext(filename)[0]
-        print(f"\n📷 Processing: {filename}")
+        print(f"\n Processing: {filename}")
 
         try:
             result = ocr_system.ocr(image_path)
