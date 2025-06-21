@@ -27,11 +27,11 @@ with open(output_csv, mode='w', newline='', encoding='utf-8') as csvfile:
         try:
             result = ocr_system.ocr(image_path)
         except Exception as e:
-            print(f"❌ Failed on {filename}: {e}")
+            print(f" Failed on {filename}: {e}")
             continue
 
         if not isinstance(result, dict):
-            print(f"⚠️ Skipping {filename}: OCR did not return a dict")
+            print(f" Skipping {filename}: OCR did not return a dict")
             continue
 
         for polygon_id, polygon_data in result.items():
@@ -48,7 +48,7 @@ with open(output_csv, mode='w', newline='', encoding='utf-8') as csvfile:
                 writer.writerow([image_id, polygon_id, x1, y1, x2, y2, text, script])
 
             except Exception as e:
-                print(f"⚠️ Error in polygon {polygon_id} of {filename}: {e}")
+                print(f" Error in polygon {polygon_id} of {filename}: {e}")
 
-print(f"\n✅ CSV saved at: {output_csv}")
+print(f"\n CSV saved at: {output_csv}")
 
