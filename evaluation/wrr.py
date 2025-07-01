@@ -35,7 +35,7 @@ for image_name, gt_entry in gt_data.items():
 wrr = correct / total_gt if total_gt > 0 else 0
 
 # Print result
-print(f"✅ WRR (Word Recognition Rate): {wrr:.4f} ({correct}/{total_gt})")
+print(f"WRR (Word Recognition Rate): {wrr:.4f} ({correct}/{total_gt})")
 
 # Save evaluation result
 eval_output = {
@@ -46,5 +46,5 @@ eval_output = {
 with open("evaluation_result.json", "w", encoding="utf-8") as f:
     json.dump(eval_output, f, indent=2)
 
-print("✅ Evaluation result saved to evaluation_result.json")
+print("Evaluation result saved to evaluation_result.json")
 
