@@ -5,7 +5,7 @@ from IndicPhotoOCR.ocr import OCR
 # Folder settings
 image_folder = "raw_images"
 output_path = "ocr_outputs"
-combined_json_path = os.path.join(output_path, "ocr_combined_output_2.json")
+combined_json_path = os.path.join(output_path, "ocr_combined_output_poly.json")
 os.makedirs(output_path, exist_ok=True)
 
 # OCR object
