@@ -1,0 +1,8792 @@
+{
+  "IMG_10": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          1711,
+          1837,
+          2490,
+          2028
+        ],
+        "text": "garnet",
+        "script_language": "english"
+      },
+      "polygon_1": {
+        "coordinates": [
+          803,
+          1849,
+          1343,
+          2046
+        ],
+        "text": "wipro",
+        "script_language": "english"
+      },
+      "polygon_2": {
+        "coordinates": [
+          2242,
+          2396,
+          2529,
+          2592
+        ],
+        "text": "led",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_1": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          1158,
+          565,
+          1553,
+          661
+        ],
+        "text": "പാലക്കുറവിൽ",
+        "script_language": "malayalam"
+      },
+      "polygon_1": {
+        "coordinates": [
+          1729,
+          1100,
+          2340,
+          1388
+        ],
+        "text": "aer",
+        "script_language": "english"
+      },
+      "polygon_2": {
+        "coordinates": [
+          1432,
+          1235,
+          1739,
+          1469
+        ],
+        "text": "ની",
+        "script_language": "gujarati"
+      },
+      "polygon_3": {
+        "coordinates": [
+          968,
+          1264,
+          1272,
+          1541
+        ],
+        "text": "ਅਤਿਆ",
+        "script_language": "punjabi"
+      },
+      "polygon_4": {
+        "coordinates": [
+          1140,
+          1271,
+          1199,
+          1307
+        ],
+        "text": "ਸਿਨਾਤਾ",
+        "script_language": "punjabi"
+      },
+      "polygon_5": {
+        "coordinates": [
+          2168,
+          1727,
+          2363,
+          1893
+        ],
+        "text": "ਸਿਵਾਈ",
+        "script_language": "punjabi"
+      },
+      "polygon_6": {
+        "coordinates": [
+          665,
+          1785,
+          1326,
+          2057
+        ],
+        "text": "leru",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          2043,
+          1949,
+          2124,
+          1977
+        ],
+        "text": "oyal",
+        "script_language": "english"
+      },
+      "polygon_8": {
+        "coordinates": [
+          2084,
+          1979,
+          2135,
+          2008
+        ],
+        "text": "દાસ",
+        "script_language": "gujarati"
+      }
+    }
+  },
+  "IMG_11": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          1594,
+          1658,
+          1760,
+          1740
+        ],
+        "text": "ਨਾੇਸ",
+        "script_language": "punjabi"
+      },
+      "polygon_1": {
+        "coordinates": [
+          1150,
+          1656,
+          1378,
+          1756
+        ],
+        "text": "lum",
+        "script_language": "english"
+      },
+      "polygon_2": {
+        "coordinates": [
+          1815,
+          1655,
+          2090,
+          1749
+        ],
+        "text": "ਰਾਏਲਸ",
+        "script_language": "punjabi"
+      },
+      "polygon_3": {
+        "coordinates": [
+          1421,
+          1677,
+          1553,
+          1740
+        ],
+        "text": "em",
+        "script_language": "english"
+      },
+      "polygon_4": {
+        "coordinates": [
+          1648,
+          1818,
+          2605,
+          2047
+        ],
+        "text": "meground",
+        "script_language": "english"
+      },
+      "polygon_5": {
+        "coordinates": [
+          567,
+          1826,
+          1503,
+          2053
+        ],
+        "text": "klasafch",
+        "script_language": "english"
+      },
+      "polygon_6": {
+        "coordinates": [
+          1520,
+          2080,
+          2127,
+          2136
+        ],
+        "text": "kangjeibung",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          1169,
+          2086,
+          1488,
+          2140
+        ],
+        "text": "keinou",
+        "script_language": "english"
+      },
+      "polygon_8": {
+        "coordinates": [
+          946,
+          3972,
+          1068,
+          4004
+        ],
+        "text": "mn01s5312",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_2": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          1157,
+          921,
+          1814,
+          1318
+        ],
+        "text": "muse",
+        "script_language": "english"
+      },
+      "polygon_1": {
+        "coordinates": [
+          517,
+          1197,
+          1117,
+          1585
+        ],
+        "text": "state",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_3": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          2272,
+          976,
+          2784,
+          1201
+        ],
+        "text": "মরা",
+        "script_language": "assamese"
+      },
+      "polygon_1": {
+        "coordinates": [
+          1191,
+          1003,
+          1979,
+          1224
+        ],
+        "text": "লাংবন",
+        "script_language": "assamese"
+      },
+      "polygon_2": {
+        "coordinates": [
+          1516,
+          1671,
+          1608,
+          1756
+        ],
+        "text": "ટ",
+        "script_language": "gujarati"
+      },
+      "polygon_3": {
+        "coordinates": [
+          1408,
+          1682,
+          2498,
+          1896
+        ],
+        "text": "மங்கனி",
+        "script_language": "tamil"
+      },
+      "polygon_4": {
+        "coordinates": [
+          1745,
+          1958,
+          1852,
+          2136
+        ],
+        "text": "ਸਿੰਘ",
+        "script_language": "punjabi"
+      },
+      "polygon_5": {
+        "coordinates": [
+          1422,
+          2352,
+          2294,
+          2554
+        ],
+        "text": "নাংমাইজিং",
+        "script_language": "assamese"
+      }
+    }
+  },
+  "IMG_16": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          1411,
+          1499,
+          2017,
+          1698
+        ],
+        "text": "class",
+        "script_language": "english"
+      },
+      "polygon_1": {
+        "coordinates": [
+          456,
+          1631,
+          1032,
+          1904
+        ],
+        "text": "कक्षा",
+        "script_language": "hindi"
+      },
+      "polygon_2": {
+        "coordinates": [
+          1403,
+          1735,
+          1957,
+          1940
+        ],
+        "text": "room",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_7": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          6,
+          1354,
+          78,
+          1473
+        ],
+        "text": "ऋतु",
+        "script_language": "hindi"
+      },
+      "polygon_1": {
+        "coordinates": [
+          91,
+          1369,
+          171,
+          1505
+        ],
+        "text": "896",
+        "script_language": "punjabi"
+      },
+      "polygon_2": {
+        "coordinates": [
+          101,
+          1509,
+          146,
+          1550
+        ],
+        "text": "ਸਿ",
+        "script_language": "punjabi"
+      },
+      "polygon_3": {
+        "coordinates": [
+          911,
+          1484,
+          1440,
+          1671
+        ],
+        "text": "ਤੇਸੴਸਵੇ੦ਾ",
+        "script_language": "punjabi"
+      },
+      "polygon_4": {
+        "coordinates": [
+          5,
+          1724,
+          99,
+          1898
+        ],
+        "text": "કાપ",
+        "script_language": "gujarati"
+      },
+      "polygon_5": {
+        "coordinates": [
+          755,
+          1777,
+          1605,
+          1997
+        ],
+        "text": "sarmila",
+        "script_language": "english"
+      },
+      "polygon_6": {
+        "coordinates": [
+          555,
+          2068,
+          1821,
+          2306
+        ],
+        "text": "pharmacy",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          1628,
+          2430,
+          1809,
+          2478
+        ],
+        "text": "phone",
+        "script_language": "english"
+      },
+      "polygon_8": {
+        "coordinates": [
+          1818,
+          2439,
+          2096,
+          2489
+        ],
+        "text": "9856192654",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_6": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          1535,
+          1040,
+          1876,
+          1192
+        ],
+        "text": "लोडस्टोम",
+        "script_language": "marathi"
+      },
+      "polygon_1": {
+        "coordinates": [
+          1314,
+          1173,
+          2087,
+          1348
+        ],
+        "text": "ਨੲਨਾਪਰਾਸਤਾਪ੍ਰੇਨਟਾਲ",
+        "script_language": "punjabi"
+      },
+      "polygon_2": {
+        "coordinates": [
+          1913,
+          1942,
+          2013,
+          2085
+        ],
+        "text": "ਸਾਰਾ",
+        "script_language": "punjabi"
+      },
+      "polygon_3": {
+        "coordinates": [
+          1919,
+          2131,
+          2014,
+          2250
+        ],
+        "text": "੨",
+        "script_language": "punjabi"
+      },
+      "polygon_4": {
+        "coordinates": [
+          2259,
+          2293,
+          2562,
+          2430
+        ],
+        "text": "definition",
+        "script_language": "english"
+      },
+      "polygon_5": {
+        "coordinates": [
+          2167,
+          2371,
+          2245,
+          2451
+        ],
+        "text": "gh",
+        "script_language": "english"
+      },
+      "polygon_6": {
+        "coordinates": [
+          2349,
+          2375,
+          2585,
+          2488
+        ],
+        "text": "machine",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          2169,
+          2431,
+          2334,
+          2532
+        ],
+        "text": "nting",
+        "script_language": "english"
+      },
+      "polygon_8": {
+        "coordinates": [
+          1918,
+          2458,
+          2009,
+          2737
+        ],
+        "text": "ਕਾਰਾ",
+        "script_language": "punjabi"
+      },
+      "polygon_9": {
+        "coordinates": [
+          1922,
+          2952,
+          2009,
+          3069
+        ],
+        "text": "n",
+        "script_language": "english"
+      },
+      "polygon_10": {
+        "coordinates": [
+          1915,
+          3110,
+          2017,
+          3234
+        ],
+        "text": "g",
+        "script_language": "english"
+      },
+      "polygon_11": {
+        "coordinates": [
+          1430,
+          3817,
+          1530,
+          3846
+        ],
+        "text": "paints",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_17": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          1296,
+          1340,
+          1405,
+          1410
+        ],
+        "text": "lg",
+        "script_language": "english"
+      },
+      "polygon_1": {
+        "coordinates": [
+          828,
+          1970,
+          1224,
+          2255
+        ],
+        "text": "ശ്രീ",
+        "script_language": "malayalam"
+      },
+      "polygon_2": {
+        "coordinates": [
+          427,
+          2449,
+          643,
+          2540
+        ],
+        "text": "બેકરી",
+        "script_language": "gujarati"
+      },
+      "polygon_3": {
+        "coordinates": [
+          160,
+          2465,
+          390,
+          2564
+        ],
+        "text": "અતુલ",
+        "script_language": "gujarati"
+      },
+      "polygon_4": {
+        "coordinates": [
+          121,
+          2584,
+          248,
+          2620
+        ],
+        "text": "gstin",
+        "script_language": "english"
+      },
+      "polygon_5": {
+        "coordinates": [
+          283,
+          2585,
+          673,
+          2627
+        ],
+        "text": "24akwpc6733c1zb",
+        "script_language": "english"
+      },
+      "polygon_6": {
+        "coordinates": [
+          2577,
+          2618,
+          2606,
+          2652
+        ],
+        "text": "",
+        "script_language": "gujarati"
+      },
+      "polygon_7": {
+        "coordinates": [
+          2614,
+          2618,
+          2747,
+          2653
+        ],
+        "text": "roots",
+        "script_language": "english"
+      },
+      "polygon_8": {
+        "coordinates": [
+          2756,
+          2620,
+          2993,
+          2656
+        ],
+        "text": "enterprise",
+        "script_language": "english"
+      },
+      "polygon_9": {
+        "coordinates": [
+          173,
+          2837,
+          253,
+          2882
+        ],
+        "text": "103",
+        "script_language": "english"
+      },
+      "polygon_10": {
+        "coordinates": [
+          1248,
+          3250,
+          1343,
+          3321
+        ],
+        "text": "મન",
+        "script_language": "gujarati"
+      },
+      "polygon_11": {
+        "coordinates": [
+          1085,
+          3255,
+          1232,
+          3351
+        ],
+        "text": "૬",
+        "script_language": "gujarati"
+      },
+      "polygon_12": {
+        "coordinates": [
+          2893,
+          3273,
+          2967,
+          3308
+        ],
+        "text": "shop",
+        "script_language": "english"
+      },
+      "polygon_13": {
+        "coordinates": [
+          2971,
+          3273,
+          3021,
+          3303
+        ],
+        "text": "tim",
+        "script_language": "english"
+      },
+      "polygon_14": {
+        "coordinates": [
+          2910,
+          3323,
+          2989,
+          3354
+        ],
+        "text": "1000",
+        "script_language": "english"
+      },
+      "polygon_15": {
+        "coordinates": [
+          2963,
+          3374,
+          3001,
+          3403
+        ],
+        "text": "to",
+        "script_language": "english"
+      },
+      "polygon_16": {
+        "coordinates": [
+          1693,
+          3390,
+          1763,
+          3433
+        ],
+        "text": "8",
+        "script_language": "gujarati"
+      },
+      "polygon_17": {
+        "coordinates": [
+          2918,
+          3424,
+          2998,
+          3454
+        ],
+        "text": "12ઃ30",
+        "script_language": "gujarati"
+      },
+      "polygon_18": {
+        "coordinates": [
+          1508,
+          3444,
+          1550,
+          3470
+        ],
+        "text": "ઉમ",
+        "script_language": "gujarati"
+      },
+      "polygon_19": {
+        "coordinates": [
+          1015,
+          3462,
+          1085,
+          3493
+        ],
+        "text": "siab",
+        "script_language": "english"
+      },
+      "polygon_20": {
+        "coordinates": [
+          768,
+          3465,
+          845,
+          3500
+        ],
+        "text": "૧",
+        "script_language": "gujarati"
+      },
+      "polygon_21": {
+        "coordinates": [
+          1018,
+          3493,
+          1082,
+          3516
+        ],
+        "text": "bakery",
+        "script_language": "english"
+      },
+      "polygon_22": {
+        "coordinates": [
+          1020,
+          3515,
+          1085,
+          3563
+        ],
+        "text": "13",
+        "script_language": "gujarati"
+      },
+      "polygon_23": {
+        "coordinates": [
+          1018,
+          3563,
+          1084,
+          3592
+        ],
+        "text": "orld",
+        "script_language": "english"
+      },
+      "polygon_24": {
+        "coordinates": [
+          1020,
+          3589,
+          1086,
+          3613
+        ],
+        "text": "00808",
+        "script_language": "gujarati"
+      },
+      "polygon_25": {
+        "coordinates": [
+          1492,
+          3657,
+          1672,
+          3720
+        ],
+        "text": "শ্রী",
+        "script_language": "assamese"
+      },
+      "polygon_26": {
+        "coordinates": [
+          1596,
+          3847,
+          1654,
+          3862
+        ],
+        "text": "જઘથારાય",
+        "script_language": "gujarati"
+      }
+    }
+  },
+  "IMG_15": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          1380,
+          1513,
+          2011,
+          1735
+        ],
+        "text": "੦੪੦੦",
+        "script_language": "punjabi"
+      },
+      "polygon_1": {
+        "coordinates": [
+          2070,
+          1526,
+          2592,
+          1721
+        ],
+        "text": "সাণ্চৈ ",
+        "script_language": "assamese"
+      },
+      "polygon_2": {
+        "coordinates": [
+          683,
+          1572,
+          1363,
+          1757
+        ],
+        "text": "hmma",
+        "script_language": "english"
+      },
+      "polygon_3": {
+        "coordinates": [
+          2155,
+          1789,
+          2586,
+          1894
+        ],
+        "text": "point",
+        "script_language": "english"
+      },
+      "polygon_4": {
+        "coordinates": [
+          1511,
+          1798,
+          2109,
+          1905
+        ],
+        "text": "service",
+        "script_language": "english"
+      },
+      "polygon_5": {
+        "coordinates": [
+          2759,
+          1807,
+          3019,
+          1864
+        ],
+        "text": "digitalind",
+        "script_language": "english"
+      },
+      "polygon_6": {
+        "coordinates": [
+          694,
+          1804,
+          1469,
+          1911
+        ],
+        "text": "customer",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          420,
+          1840,
+          546,
+          1893
+        ],
+        "text": "1 વીવ",
+        "script_language": "gujarati"
+      },
+      "polygon_8": {
+        "coordinates": [
+          243,
+          1840,
+          416,
+          1898
+        ],
+        "text": "digital",
+        "script_language": "english"
+      },
+      "polygon_9": {
+        "coordinates": [
+          2864,
+          1860,
+          3020,
+          1894
+        ],
+        "text": "toempon",
+        "script_language": "english"
+      },
+      "polygon_10": {
+        "coordinates": [
+          2759,
+          1863,
+          2860,
+          1894
+        ],
+        "text": "୮୦୩୧",
+        "script_language": "odia"
+      },
+      "polygon_11": {
+        "coordinates": [
+          390,
+          1892,
+          535,
+          1929
+        ],
+        "text": "0197474",
+        "script_language": "punjabi"
+      },
+      "polygon_12": {
+        "coordinates": [
+          241,
+          1895,
+          341,
+          1929
+        ],
+        "text": "સ્કાસ",
+        "script_language": "gujarati"
+      },
+      "polygon_13": {
+        "coordinates": [
+          345,
+          1896,
+          384,
+          1926
+        ],
+        "text": "ਸਾਂ",
+        "script_language": "punjabi"
+      },
+      "polygon_14": {
+        "coordinates": [
+          400,
+          2052,
+          666,
+          2321
+        ],
+        "text": "ct",
+        "script_language": "english"
+      },
+      "polygon_15": {
+        "coordinates": [
+          1897,
+          2071,
+          2346,
+          2301
+        ],
+        "text": "ba",
+        "script_language": "english"
+      },
+      "polygon_16": {
+        "coordinates": [
+          1056,
+          2067,
+          1707,
+          2299
+        ],
+        "text": "ofc",
+        "script_language": "english"
+      },
+      "polygon_17": {
+        "coordinates": [
+          748,
+          2085,
+          1030,
+          2310
+        ],
+        "text": "ભ",
+        "script_language": "gujarati"
+      },
+      "polygon_18": {
+        "coordinates": [
+          2006,
+          2337,
+          2277,
+          2415
+        ],
+        "text": "world",
+        "script_language": "english"
+      },
+      "polygon_19": {
+        "coordinates": [
+          1178,
+          2343,
+          1732,
+          2423
+        ],
+        "text": "understand",
+        "script_language": "english"
+      },
+      "polygon_20": {
+        "coordinates": [
+          997,
+          2347,
+          1150,
+          2424
+        ],
+        "text": "we",
+        "script_language": "english"
+      },
+      "polygon_21": {
+        "coordinates": [
+          1754,
+          2355,
+          1982,
+          2435
+        ],
+        "text": "your",
+        "script_language": "english"
+      },
+      "polygon_22": {
+        "coordinates": [
+          1434,
+          2559,
+          1840,
+          2636
+        ],
+        "text": "8974073178",
+        "script_language": "english"
+      },
+      "polygon_23": {
+        "coordinates": [
+          2854,
+          2571,
+          3015,
+          2662
+        ],
+        "text": "singh",
+        "script_language": "english"
+      },
+      "polygon_24": {
+        "coordinates": [
+          2620,
+          2574,
+          2846,
+          2666
+        ],
+        "text": "பேயர்",
+        "script_language": "tamil"
+      },
+      "polygon_25": {
+        "coordinates": [
+          2259,
+          2580,
+          2605,
+          2652
+        ],
+        "text": "chanambam",
+        "script_language": "english"
+      },
+      "polygon_26": {
+        "coordinates": [
+          521,
+          2600,
+          1046,
+          2683
+        ],
+        "text": "765371290010",
+        "script_language": "english"
+      },
+      "polygon_27": {
+        "coordinates": [
+          2102,
+          2618,
+          2238,
+          2657
+        ],
+        "text": "name",
+        "script_language": "english"
+      },
+      "polygon_28": {
+        "coordinates": [
+          2006,
+          2619,
+          2093,
+          2658
+        ],
+        "text": "039",
+        "script_language": "punjabi"
+      },
+      "polygon_29": {
+        "coordinates": [
+          1117,
+          2627,
+          1206,
+          2666
+        ],
+        "text": "657",
+        "script_language": "assamese"
+      },
+      "polygon_30": {
+        "coordinates": [
+          1212,
+          2625,
+          1388,
+          2663
+        ],
+        "text": "mobile",
+        "script_language": "english"
+      },
+      "polygon_31": {
+        "coordinates": [
+          284,
+          2628,
+          371,
+          2668
+        ],
+        "text": "౧౯౯౭",
+        "script_language": "telugu"
+      },
+      "polygon_32": {
+        "coordinates": [
+          379,
+          2630,
+          512,
+          2669
+        ],
+        "text": "੦੦੦੬",
+        "script_language": "punjabi"
+      },
+      "polygon_33": {
+        "coordinates": [
+          1433,
+          2631,
+          1829,
+          2700
+        ],
+        "text": "7629981950",
+        "script_language": "english"
+      },
+      "polygon_34": {
+        "coordinates": [
+          2332,
+          2766,
+          2606,
+          2838
+        ],
+        "text": "keinou",
+        "script_language": "english"
+      },
+      "polygon_35": {
+        "coordinates": [
+          1443,
+          2776,
+          1838,
+          2866
+        ],
+        "text": "bishnupur",
+        "script_language": "english"
+      },
+      "polygon_36": {
+        "coordinates": [
+          2007,
+          2798,
+          2095,
+          2839
+        ],
+        "text": "csp",
+        "script_language": "english"
+      },
+      "polygon_37": {
+        "coordinates": [
+          2101,
+          2798,
+          2333,
+          2837
+        ],
+        "text": "location",
+        "script_language": "english"
+      },
+      "polygon_38": {
+        "coordinates": [
+          1118,
+          2804,
+          1218,
+          2842
+        ],
+        "text": "પાસર",
+        "script_language": "gujarati"
+      },
+      "polygon_39": {
+        "coordinates": [
+          1224,
+          2801,
+          1418,
+          2841
+        ],
+        "text": "branch",
+        "script_language": "english"
+      },
+      "polygon_40": {
+        "coordinates": [
+          283,
+          2806,
+          384,
+          2843
+        ],
+        "text": "1350",
+        "script_language": "gujarati"
+      },
+      "polygon_41": {
+        "coordinates": [
+          390,
+          2805,
+          569,
+          2843
+        ],
+        "text": "branch",
+        "script_language": "english"
+      },
+      "polygon_42": {
+        "coordinates": [
+          574,
+          2806,
+          709,
+          2845
+        ],
+        "text": "code",
+        "script_language": "english"
+      },
+      "polygon_43": {
+        "coordinates": [
+          495,
+          3104,
+          753,
+          3240
+        ],
+        "text": "sim",
+        "script_language": "english"
+      },
+      "polygon_44": {
+        "coordinates": [
+          516,
+          3275,
+          843,
+          3360
+        ],
+        "text": "available",
+        "script_language": "english"
+      },
+      "polygon_45": {
+        "coordinates": [
+          164,
+          3343,
+          482,
+          3518
+        ],
+        "text": "bsnl",
+        "script_language": "english"
+      },
+      "polygon_46": {
+        "coordinates": [
+          518,
+          3387,
+          694,
+          3460
+        ],
+        "text": "here",
+        "script_language": "english"
+      },
+      "polygon_47": {
+        "coordinates": [
+          2851,
+          3383,
+          3017,
+          3511
+        ],
+        "text": "पा",
+        "script_language": "marathi"
+      },
+      "polygon_48": {
+        "coordinates": [
+          2869,
+          3553,
+          3014,
+          3643
+        ],
+        "text": "aa",
+        "script_language": "english"
+      },
+      "polygon_49": {
+        "coordinates": [
+          2865,
+          3662,
+          3021,
+          3792
+        ],
+        "text": "ਸਲੇ",
+        "script_language": "punjabi"
+      },
+      "polygon_50": {
+        "coordinates": [
+          2729,
+          3732,
+          2835,
+          3792
+        ],
+        "text": "ਦਿਰ",
+        "script_language": "punjabi"
+      },
+      "polygon_51": {
+        "coordinates": [
+          1554,
+          3814,
+          2233,
+          3910
+        ],
+        "text": "aadhaar",
+        "script_language": "english"
+      },
+      "polygon_52": {
+        "coordinates": [
+          2883,
+          3833,
+          3021,
+          3923
+        ],
+        "text": "248",
+        "script_language": "gujarati"
+      },
+      "polygon_53": {
+        "coordinates": [
+          1952,
+          3898,
+          2125,
+          3986
+        ],
+        "text": "मेरी",
+        "script_language": "hindi"
+      },
+      "polygon_54": {
+        "coordinates": [
+          2143,
+          3909,
+          2455,
+          3984
+        ],
+        "text": "पहचान",
+        "script_language": "marathi"
+      },
+      "polygon_55": {
+        "coordinates": [
+          1410,
+          3914,
+          1574,
+          3999
+        ],
+        "text": "मेरा",
+        "script_language": "marathi"
+      },
+      "polygon_56": {
+        "coordinates": [
+          1606,
+          3926,
+          1892,
+          3993
+        ],
+        "text": "आधार",
+        "script_language": "marathi"
+      }
+    }
+  },
+  "IMG_4": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          1138,
+          1572,
+          2153,
+          1849
+        ],
+        "text": "इक्मला",
+        "script_language": "hindi"
+      },
+      "polygon_1": {
+        "coordinates": [
+          1084,
+          1897,
+          2242,
+          2244
+        ],
+        "text": "pharmacy",
+        "script_language": "english"
+      },
+      "polygon_2": {
+        "coordinates": [
+          1417,
+          1930,
+          1491,
+          1985
+        ],
+        "text": "अपना",
+        "script_language": "hindi"
+      },
+      "polygon_3": {
+        "coordinates": [
+          1150,
+          2275,
+          1607,
+          2419
+        ],
+        "text": "keinou",
+        "script_language": "english"
+      },
+      "polygon_4": {
+        "coordinates": [
+          1666,
+          2286,
+          2081,
+          2432
+        ],
+        "text": "bazar",
+        "script_language": "english"
+      },
+      "polygon_5": {
+        "coordinates": [
+          839,
+          2869,
+          1862,
+          3094
+        ],
+        "text": "ਸੰਵਾ   ",
+        "script_language": "punjabi"
+      },
+      "polygon_6": {
+        "coordinates": [
+          1243,
+          3103,
+          2008,
+          3393
+        ],
+        "text": "pharmacy",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          709,
+          3143,
+          1185,
+          3428
+        ],
+        "text": "sadish",
+        "script_language": "english"
+      },
+      "polygon_8": {
+        "coordinates": [
+          236,
+          3313,
+          438,
+          3524
+        ],
+        "text": "ke",
+        "script_language": "english"
+      },
+      "polygon_9": {
+        "coordinates": [
+          1482,
+          3447,
+          1581,
+          3527
+        ],
+        "text": "no",
+        "script_language": "english"
+      },
+      "polygon_10": {
+        "coordinates": [
+          1690,
+          3434,
+          1919,
+          3629
+        ],
+        "text": "ਸਿਰਾਇਆ",
+        "script_language": "punjabi"
+      },
+      "polygon_11": {
+        "coordinates": [
+          1174,
+          3453,
+          1455,
+          3548
+        ],
+        "text": "licence",
+        "script_language": "english"
+      },
+      "polygon_12": {
+        "coordinates": [
+          1096,
+          3543,
+          1637,
+          3661
+        ],
+        "text": "  ",
+        "script_language": "gujarati"
+      },
+      "polygon_13": {
+        "coordinates": [
+          1105,
+          3641,
+          1639,
+          3764
+        ],
+        "text": "3",
+        "script_language": "odia"
+      },
+      "polygon_14": {
+        "coordinates": [
+          1112,
+          3744,
+          1646,
+          3861
+        ],
+        "text": "4208",
+        "script_language": "gujarati"
+      },
+      "polygon_15": {
+        "coordinates": [
+          1454,
+          3829,
+          1715,
+          3923
+        ],
+        "text": "bazar",
+        "script_language": "english"
+      },
+      "polygon_16": {
+        "coordinates": [
+          1094,
+          3853,
+          1394,
+          3955
+        ],
+        "text": "keinou",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_5": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          1240,
+          1345,
+          2039,
+          1711
+        ],
+        "text": "faculty",
+        "script_language": "english"
+      },
+      "polygon_1": {
+        "coordinates": [
+          438,
+          1589,
+          912,
+          1843
+        ],
+        "text": "संकाय",
+        "script_language": "hindi"
+      },
+      "polygon_2": {
+        "coordinates": [
+          1227,
+          1686,
+          1782,
+          2007
+        ],
+        "text": "room",
+        "script_language": "english"
+      },
+      "polygon_3": {
+        "coordinates": [
+          570,
+          1850,
+          896,
+          2070
+        ],
+        "text": "कक्ष",
+        "script_language": "hindi"
+      },
+      "polygon_4": {
+        "coordinates": [
+          2855,
+          3306,
+          3007,
+          3427
+        ],
+        "text": "6145",
+        "script_language": "gujarati"
+      }
+    }
+  },
+  "IMG_14": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          2281,
+          1699,
+          2391,
+          1916
+        ],
+        "text": "૧",
+        "script_language": "gujarati"
+      },
+      "polygon_1": {
+        "coordinates": [
+          1697,
+          1789,
+          2139,
+          2138
+        ],
+        "text": "18",
+        "script_language": "punjabi"
+      },
+      "polygon_2": {
+        "coordinates": [
+          1343,
+          1825,
+          1481,
+          2015
+        ],
+        "text": "ऐ",
+        "script_language": "marathi"
+      },
+      "polygon_3": {
+        "coordinates": [
+          1358,
+          2275,
+          1742,
+          2521
+        ],
+        "text": "छा.",
+        "script_language": "hindi"
+      },
+      "polygon_4": {
+        "coordinates": [
+          1909,
+          2284,
+          2450,
+          2515
+        ],
+        "text": "વાતા",
+        "script_language": "gujarati"
+      },
+      "polygon_5": {
+        "coordinates": [
+          871,
+          2295,
+          1197,
+          2541
+        ],
+        "text": "૭લ",
+        "script_language": "gujarati"
+      },
+      "polygon_6": {
+        "coordinates": [
+          1263,
+          2519,
+          2214,
+          2799
+        ],
+        "text": "फु चीत शानि",
+        "script_language": "hindi"
+      }
+    }
+  },
+  "File_13": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          456,
+          230,
+          548,
+          308
+        ],
+        "text": " ",
+        "script_language": "gujarati"
+      },
+      "polygon_1": {
+        "coordinates": [
+          1438,
+          659,
+          1564,
+          1037
+        ],
+        "text": "ruspata",
+        "script_language": "english"
+      },
+      "polygon_2": {
+        "coordinates": [
+          1780,
+          686,
+          1892,
+          1429
+        ],
+        "text": "electronics",
+        "script_language": "english"
+      },
+      "polygon_3": {
+        "coordinates": [
+          1926,
+          688,
+          2030,
+          1099
+        ],
+        "text": "imphal",
+        "script_language": "english"
+      },
+      "polygon_4": {
+        "coordinates": [
+          2080,
+          814,
+          2168,
+          1245
+        ],
+        "text": "സക്കസ്സ്",
+        "script_language": "malayalam"
+      },
+      "polygon_5": {
+        "coordinates": [
+          2196,
+          993,
+          2284,
+          1261
+        ],
+        "text": "கொல்",
+        "script_language": "tamil"
+      },
+      "polygon_6": {
+        "coordinates": [
+          2590,
+          1086,
+          2673,
+          1381
+        ],
+        "text": "ഇ.എം",
+        "script_language": "malayalam"
+      },
+      "polygon_7": {
+        "coordinates": [
+          1920,
+          1135,
+          2039,
+          1884
+        ],
+        "text": "technology",
+        "script_language": "english"
+      },
+      "polygon_8": {
+        "coordinates": [
+          2391,
+          1233,
+          2472,
+          1382
+        ],
+        "text": "1988",
+        "script_language": "english"
+      },
+      "polygon_9": {
+        "coordinates": [
+          2083,
+          1248,
+          2180,
+          1591
+        ],
+        "text": "ofministry",
+        "script_language": "english"
+      },
+      "polygon_10": {
+        "coordinates": [
+          2199,
+          1262,
+          2274,
+          1656
+        ],
+        "text": "ശീമാട്ടി",
+        "script_language": "malayalam"
+      },
+      "polygon_11": {
+        "coordinates": [
+          1526,
+          1315,
+          1673,
+          1558
+        ],
+        "text": "પોલીસ",
+        "script_language": "gujarati"
+      },
+      "polygon_12": {
+        "coordinates": [
+          2385,
+          1396,
+          2466,
+          1709
+        ],
+        "text": "ശീമാട്ടി",
+        "script_language": "malayalam"
+      },
+      "polygon_13": {
+        "coordinates": [
+          2584,
+          1423,
+          2666,
+          1648
+        ],
+        "text": "2",
+        "script_language": "gujarati"
+      },
+      "polygon_14": {
+        "coordinates": [
+          1778,
+          1461,
+          1887,
+          1603
+        ],
+        "text": "of",
+        "script_language": "english"
+      },
+      "polygon_15": {
+        "coordinates": [
+          2056,
+          1598,
+          2173,
+          2117
+        ],
+        "text": "scientificsociety",
+        "script_language": "english"
+      },
+      "polygon_16": {
+        "coordinates": [
+          1780,
+          1627,
+          1888,
+          2183
+        ],
+        "text": "nstitute",
+        "script_language": "english"
+      },
+      "polygon_17": {
+        "coordinates": [
+          2580,
+          1658,
+          2659,
+          1981
+        ],
+        "text": "imphal",
+        "script_language": "english"
+      },
+      "polygon_18": {
+        "coordinates": [
+          2179,
+          1668,
+          2293,
+          2038
+        ],
+        "text": "technology",
+        "script_language": "english"
+      },
+      "polygon_19": {
+        "coordinates": [
+          2371,
+          1708,
+          2460,
+          1919
+        ],
+        "text": "on1st",
+        "script_language": "english"
+      },
+      "polygon_20": {
+        "coordinates": [
+          1915,
+          1915,
+          2025,
+          2628
+        ],
+        "text": "information",
+        "script_language": "english"
+      },
+      "polygon_21": {
+        "coordinates": [
+          2381,
+          1937,
+          2461,
+          2254
+        ],
+        "text": "கவலை",
+        "script_language": "tamil"
+      },
+      "polygon_22": {
+        "coordinates": [
+          2572,
+          2001,
+          2657,
+          2398
+        ],
+        "text": "akampat",
+        "script_language": "english"
+      },
+      "polygon_23": {
+        "coordinates": [
+          2176,
+          2043,
+          2266,
+          2478
+        ],
+        "text": "വികസനം",
+        "script_language": "malayalam"
+      },
+      "polygon_24": {
+        "coordinates": [
+          2077,
+          2121,
+          2158,
+          2518
+        ],
+        "text": "autonomous",
+        "script_language": "english"
+      },
+      "polygon_25": {
+        "coordinates": [
+          1453,
+          2192,
+          1546,
+          2610
+        ],
+        "text": "armid",
+        "script_language": "english"
+      },
+      "polygon_26": {
+        "coordinates": [
+          1777,
+          2215,
+          1880,
+          2727
+        ],
+        "text": "ശീമാട്ടി",
+        "script_language": "malayalam"
+      },
+      "polygon_27": {
+        "coordinates": [
+          2073,
+          2520,
+          2147,
+          2611
+        ],
+        "text": "ક",
+        "script_language": "gujarati"
+      },
+      "polygon_28": {
+        "coordinates": [
+          1467,
+          2620,
+          1546,
+          2723
+        ],
+        "text": "എല്ലാവർക്കും",
+        "script_language": "malayalam"
+      },
+      "polygon_29": {
+        "coordinates": [
+          1912,
+          2656,
+          2015,
+          2735
+        ],
+        "text": "೦5",
+        "script_language": "kannada"
+      }
+    }
+  },
+  "File_12": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          2093,
+          325,
+          2262,
+          973
+        ],
+        "text": "comm",
+        "script_language": "english"
+      },
+      "polygon_1": {
+        "coordinates": [
+          2266,
+          2319,
+          2446,
+          2781
+        ],
+        "text": "কংগ্রেস",
+        "script_language": "bengali"
+      }
+    }
+  },
+  "IMG_19": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          286,
+          436,
+          491,
+          481
+        ],
+        "text": "membership",
+        "script_language": "english"
+      },
+      "polygon_1": {
+        "coordinates": [
+          592,
+          584,
+          670,
+          648
+        ],
+        "text": "in",
+        "script_language": "english"
+      },
+      "polygon_2": {
+        "coordinates": [
+          386,
+          584,
+          575,
+          653
+        ],
+        "text": "more",
+        "script_language": "english"
+      },
+      "polygon_3": {
+        "coordinates": [
+          192,
+          589,
+          371,
+          676
+        ],
+        "text": "shop",
+        "script_language": "english"
+      },
+      "polygon_4": {
+        "coordinates": [
+          339,
+          655,
+          510,
+          724
+        ],
+        "text": "nike",
+        "script_language": "english"
+      },
+      "polygon_5": {
+        "coordinates": [
+          191,
+          661,
+          325,
+          726
+        ],
+        "text": "the",
+        "script_language": "english"
+      },
+      "polygon_6": {
+        "coordinates": [
+          526,
+          655,
+          676,
+          741
+        ],
+        "text": "app",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          328,
+          759,
+          442,
+          788
+        ],
+        "text": "barcode",
+        "script_language": "english"
+      },
+      "polygon_8": {
+        "coordinates": [
+          446,
+          758,
+          488,
+          785
+        ],
+        "text": "for",
+        "script_language": "english"
+      },
+      "polygon_9": {
+        "coordinates": [
+          491,
+          762,
+          563,
+          785
+        ],
+        "text": "more",
+        "script_language": "english"
+      },
+      "polygon_10": {
+        "coordinates": [
+          196,
+          763,
+          267,
+          791
+        ],
+        "text": "8૦થી",
+        "script_language": "gujarati"
+      },
+      "polygon_11": {
+        "coordinates": [
+          272,
+          765,
+          323,
+          793
+        ],
+        "text": "any",
+        "script_language": "english"
+      },
+      "polygon_12": {
+        "coordinates": [
+          366,
+          791,
+          419,
+          818
+        ],
+        "text": "and",
+        "script_language": "english"
+      },
+      "polygon_13": {
+        "coordinates": [
+          424,
+          790,
+          517,
+          817
+        ],
+        "text": "colors",
+        "script_language": "english"
+      },
+      "polygon_14": {
+        "coordinates": [
+          280,
+          792,
+          360,
+          826
+        ],
+        "text": "styles",
+        "script_language": "english"
+      },
+      "polygon_15": {
+        "coordinates": [
+          197,
+          794,
+          275,
+          824
+        ],
+        "text": "sizes",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_8": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          729,
+          1640,
+          1255,
+          1814
+        ],
+        "text": "அஂகு",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          1400,
+          1636,
+          2589,
+          1842
+        ],
+        "text": "jomes",
+        "script_language": "english"
+      },
+      "polygon_2": {
+        "coordinates": [
+          273,
+          1738,
+          369,
+          1787
+        ],
+        "text": "high",
+        "script_language": "english"
+      },
+      "polygon_3": {
+        "coordinates": [
+          163,
+          1743,
+          272,
+          1866
+        ],
+        "text": "inou",
+        "script_language": "english"
+      },
+      "polygon_4": {
+        "coordinates": [
+          364,
+          1756,
+          463,
+          1928
+        ],
+        "text": "school",
+        "script_language": "english"
+      },
+      "polygon_5": {
+        "coordinates": [
+          1918,
+          1840,
+          2786,
+          2051
+        ],
+        "text": "school",
+        "script_language": "english"
+      },
+      "polygon_6": {
+        "coordinates": [
+          532,
+          1853,
+          1300,
+          2070
+        ],
+        "text": "keinou",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          1360,
+          1849,
+          1861,
+          2051
+        ],
+        "text": "high",
+        "script_language": "english"
+      },
+      "polygon_8": {
+        "coordinates": [
+          989,
+          2067,
+          1398,
+          2147
+        ],
+        "text": "govt",
+        "script_language": "english"
+      },
+      "polygon_9": {
+        "coordinates": [
+          1662,
+          2070,
+          2293,
+          2147
+        ],
+        "text": "manipur",
+        "script_language": "english"
+      },
+      "polygon_10": {
+        "coordinates": [
+          1442,
+          2071,
+          1622,
+          2147
+        ],
+        "text": "of",
+        "script_language": "english"
+      },
+      "polygon_11": {
+        "coordinates": [
+          1313,
+          2164,
+          1624,
+          2225
+        ],
+        "text": "keinou",
+        "script_language": "english"
+      },
+      "polygon_12": {
+        "coordinates": [
+          1665,
+          2165,
+          1953,
+          2225
+        ],
+        "text": "bazar",
+        "script_language": "english"
+      },
+      "polygon_13": {
+        "coordinates": [
+          953,
+          2228,
+          1405,
+          2288
+        ],
+        "text": "bishnupur",
+        "script_language": "english"
+      },
+      "polygon_14": {
+        "coordinates": [
+          1429,
+          2235,
+          1789,
+          2290
+        ],
+        "text": "district",
+        "script_language": "english"
+      },
+      "polygon_15": {
+        "coordinates": [
+          1831,
+          2235,
+          1965,
+          2290
+        ],
+        "text": "pin",
+        "script_language": "english"
+      },
+      "polygon_16": {
+        "coordinates": [
+          1986,
+          2236,
+          2095,
+          2291
+        ],
+        "text": "no",
+        "script_language": "english"
+      },
+      "polygon_17": {
+        "coordinates": [
+          2099,
+          2235,
+          2337,
+          2291
+        ],
+        "text": "795134",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_9": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          585,
+          468,
+          641,
+          497
+        ],
+        "text": "wall",
+        "script_language": "english"
+      },
+      "polygon_1": {
+        "coordinates": [
+          481,
+          482,
+          586,
+          522
+        ],
+        "text": "boundary",
+        "script_language": "english"
+      },
+      "polygon_2": {
+        "coordinates": [
+          1025,
+          526,
+          1067,
+          545
+        ],
+        "text": "037088",
+        "script_language": "punjabi"
+      },
+      "polygon_3": {
+        "coordinates": [
+          1018,
+          537,
+          1082,
+          560
+        ],
+        "text": "waitingroom",
+        "script_language": "english"
+      },
+      "polygon_4": {
+        "coordinates": [
+          486,
+          552,
+          835,
+          741
+        ],
+        "text": "ਸੰਘ",
+        "script_language": "punjabi"
+      },
+      "polygon_5": {
+        "coordinates": [
+          1230,
+          611,
+          1295,
+          634
+        ],
+        "text": "sitefor",
+        "script_language": "english"
+      },
+      "polygon_6": {
+        "coordinates": [
+          1296,
+          621,
+          1353,
+          643
+        ],
+        "text": "hostel",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          1110,
+          683,
+          1125,
+          723
+        ],
+        "text": "ਤ੍ਰ",
+        "script_language": "punjabi"
+      },
+      "polygon_8": {
+        "coordinates": [
+          0,
+          691,
+          69,
+          732
+        ],
+        "text": "nical",
+        "script_language": "english"
+      },
+      "polygon_9": {
+        "coordinates": [
+          73,
+          719,
+          181,
+          769
+        ],
+        "text": "garden",
+        "script_language": "english"
+      },
+      "polygon_10": {
+        "coordinates": [
+          778,
+          760,
+          816,
+          818
+        ],
+        "text": "ਸਾਰਪਮੇਟ",
+        "script_language": "punjabi"
+      },
+      "polygon_11": {
+        "coordinates": [
+          862,
+          760,
+          929,
+          789
+        ],
+        "text": "complex",
+        "script_language": "english"
+      },
+      "polygon_12": {
+        "coordinates": [
+          601,
+          782,
+          656,
+          810
+        ],
+        "text": "dhaba",
+        "script_language": "english"
+      },
+      "polygon_13": {
+        "coordinates": [
+          568,
+          797,
+          604,
+          820
+        ],
+        "text": "8੦੬",
+        "script_language": "punjabi"
+      },
+      "polygon_14": {
+        "coordinates": [
+          707,
+          822,
+          786,
+          859
+        ],
+        "text": "047575804",
+        "script_language": "bengali"
+      },
+      "polygon_15": {
+        "coordinates": [
+          1239,
+          859,
+          1288,
+          875
+        ],
+        "text": "proposed",
+        "script_language": "english"
+      },
+      "polygon_16": {
+        "coordinates": [
+          1495,
+          877,
+          1532,
+          970
+        ],
+        "text": "যাদঃ০০০",
+        "script_language": "assamese"
+      },
+      "polygon_17": {
+        "coordinates": [
+          713,
+          904,
+          766,
+          932
+        ],
+        "text": "phase",
+        "script_language": "english"
+      },
+      "polygon_18": {
+        "coordinates": [
+          358,
+          917,
+          396,
+          937
+        ],
+        "text": "law",
+        "script_language": "english"
+      },
+      "polygon_19": {
+        "coordinates": [
+          682,
+          920,
+          713,
+          942
+        ],
+        "text": "2110",
+        "script_language": "gujarati"
+      },
+      "polygon_20": {
+        "coordinates": [
+          194,
+          923,
+          240,
+          951
+        ],
+        "text": "road",
+        "script_language": "english"
+      },
+      "polygon_21": {
+        "coordinates": [
+          624,
+          927,
+          682,
+          957
+        ],
+        "text": "કપાગઝ",
+        "script_language": "gujarati"
+      },
+      "polygon_22": {
+        "coordinates": [
+          357,
+          931,
+          402,
+          955
+        ],
+        "text": "8106",
+        "script_language": "punjabi"
+      },
+      "polygon_23": {
+        "coordinates": [
+          724,
+          929,
+          763,
+          970
+        ],
+        "text": "୦୦",
+        "script_language": "odia"
+      },
+      "polygon_24": {
+        "coordinates": [
+          877,
+          935,
+          907,
+          951
+        ],
+        "text": "mba",
+        "script_language": "english"
+      },
+      "polygon_25": {
+        "coordinates": [
+          908,
+          939,
+          945,
+          956
+        ],
+        "text": "bldg",
+        "script_language": "english"
+      },
+      "polygon_26": {
+        "coordinates": [
+          152,
+          940,
+          196,
+          967
+        ],
+        "text": "ഈ ",
+        "script_language": "malayalam"
+      },
+      "polygon_27": {
+        "coordinates": [
+          569,
+          945,
+          626,
+          975
+        ],
+        "text": "water",
+        "script_language": "english"
+      },
+      "polygon_28": {
+        "coordinates": [
+          884,
+          952,
+          946,
+          970
+        ],
+        "text": "complex",
+        "script_language": "english"
+      },
+      "polygon_29": {
+        "coordinates": [
+          1280,
+          951,
+          1316,
+          966
+        ],
+        "text": "61166",
+        "script_language": "gujarati"
+      },
+      "polygon_30": {
+        "coordinates": [
+          1315,
+          955,
+          1337,
+          969
+        ],
+        "text": "qtr",
+        "script_language": "english"
+      },
+      "polygon_31": {
+        "coordinates": [
+          449,
+          957,
+          512,
+          985
+        ],
+        "text": "commerce",
+        "script_language": "english"
+      },
+      "polygon_32": {
+        "coordinates": [
+          445,
+          969,
+          480,
+          987
+        ],
+        "text": "bldg",
+        "script_language": "english"
+      },
+      "polygon_33": {
+        "coordinates": [
+          712,
+          970,
+          762,
+          998
+        ],
+        "text": "overhead",
+        "script_language": "english"
+      },
+      "polygon_34": {
+        "coordinates": [
+          746,
+          979,
+          771,
+          996
+        ],
+        "text": "৭০মোহ",
+        "script_language": "assamese"
+      },
+      "polygon_35": {
+        "coordinates": [
+          716,
+          990,
+          747,
+          1009
+        ],
+        "text": "বহুদে৷সহ",
+        "script_language": "assamese"
+      },
+      "polygon_36": {
+        "coordinates": [
+          1191,
+          1014,
+          1252,
+          1258
+        ],
+        "text": "കണ്ണൂർ",
+        "script_language": "malayalam"
+      },
+      "polygon_37": {
+        "coordinates": [
+          686,
+          1042,
+          725,
+          1061
+        ],
+        "text": "1811",
+        "script_language": "gujarati"
+      },
+      "polygon_38": {
+        "coordinates": [
+          685,
+          1054,
+          725,
+          1073
+        ],
+        "text": " ",
+        "script_language": "assamese"
+      },
+      "polygon_39": {
+        "coordinates": [
+          935,
+          1061,
+          989,
+          1078
+        ],
+        "text": "menialqtr",
+        "script_language": "english"
+      },
+      "polygon_40": {
+        "coordinates": [
+          1438,
+          1091,
+          1500,
+          1137
+        ],
+        "text": "61168",
+        "script_language": "gujarati"
+      },
+      "polygon_41": {
+        "coordinates": [
+          1040,
+          1104,
+          1073,
+          1118
+        ],
+        "text": "house",
+        "script_language": "english"
+      },
+      "polygon_42": {
+        "coordinates": [
+          1009,
+          1109,
+          1040,
+          1123
+        ],
+        "text": "৫৩৪ন",
+        "script_language": "assamese"
+      },
+      "polygon_43": {
+        "coordinates": [
+          1450,
+          1116,
+          1516,
+          1164
+        ],
+        "text": "house",
+        "script_language": "english"
+      },
+      "polygon_44": {
+        "coordinates": [
+          1396,
+          1137,
+          1423,
+          1157
+        ],
+        "text": "ਸਪਾਈ",
+        "script_language": "punjabi"
+      },
+      "polygon_45": {
+        "coordinates": [
+          669,
+          1142,
+          707,
+          1161
+        ],
+        "text": "18unit",
+        "script_language": "english"
+      },
+      "polygon_46": {
+        "coordinates": [
+          1305,
+          1148,
+          1347,
+          1158
+        ],
+        "text": "ஊணர",
+        "script_language": "tamil"
+      },
+      "polygon_47": {
+        "coordinates": [
+          1402,
+          1148,
+          1428,
+          1166
+        ],
+        "text": "౪౦౮౬౬",
+        "script_language": "telugu"
+      },
+      "polygon_48": {
+        "coordinates": [
+          668,
+          1153,
+          707,
+          1173
+        ],
+        "text": "੦੧੧",
+        "script_language": "punjabi"
+      },
+      "polygon_49": {
+        "coordinates": [
+          1297,
+          1157,
+          1362,
+          1169
+        ],
+        "text": "treatmentplant",
+        "script_language": "english"
+      },
+      "polygon_50": {
+        "coordinates": [
+          1577,
+          1295,
+          1844,
+          1526
+        ],
+        "text": "ਸੰਤਾ   ",
+        "script_language": "punjabi"
+      },
+      "polygon_51": {
+        "coordinates": [
+          956,
+          1350,
+          987,
+          1376
+        ],
+        "text": "478",
+        "script_language": "punjabi"
+      },
+      "polygon_52": {
+        "coordinates": [
+          1346,
+          1352,
+          1397,
+          1374
+        ],
+        "text": "ringroad",
+        "script_language": "english"
+      },
+      "polygon_53": {
+        "coordinates": [
+          984,
+          1370,
+          1018,
+          1402
+        ],
+        "text": "11੧੬",
+        "script_language": "punjabi"
+      },
+      "polygon_54": {
+        "coordinates": [
+          1498,
+          1382,
+          1553,
+          1411
+        ],
+        "text": "ringroad",
+        "script_language": "english"
+      },
+      "polygon_55": {
+        "coordinates": [
+          536,
+          1383,
+          578,
+          1485
+        ],
+        "text": "quarter",
+        "script_language": "english"
+      },
+      "polygon_56": {
+        "coordinates": [
+          1014,
+          1395,
+          1041,
+          1419
+        ],
+        "text": "੦ਾ੪",
+        "script_language": "punjabi"
+      },
+      "polygon_57": {
+        "coordinates": [
+          1639,
+          1395,
+          1672,
+          1428
+        ],
+        "text": " ",
+        "script_language": "malayalam"
+      },
+      "polygon_58": {
+        "coordinates": [
+          1668,
+          1424,
+          1736,
+          1483
+        ],
+        "text": "ഭരണഘോഷം",
+        "script_language": "malayalam"
+      },
+      "polygon_59": {
+        "coordinates": [
+          1025,
+          1446,
+          1053,
+          1463
+        ],
+        "text": "",
+        "script_language": "assamese"
+      },
+      "polygon_60": {
+        "coordinates": [
+          432,
+          1448,
+          468,
+          1510
+        ],
+        "text": "১৯৬",
+        "script_language": "assamese"
+      },
+      "polygon_61": {
+        "coordinates": [
+          769,
+          1449,
+          801,
+          1564
+        ],
+        "text": "கால்",
+        "script_language": "tamil"
+      },
+      "polygon_62": {
+        "coordinates": [
+          559,
+          1460,
+          649,
+          1527
+        ],
+        "text": "ਕਾਰਾ",
+        "script_language": "punjabi"
+      },
+      "polygon_63": {
+        "coordinates": [
+          527,
+          1488,
+          552,
+          1522
+        ],
+        "text": "ਹੁ",
+        "script_language": "punjabi"
+      },
+      "polygon_64": {
+        "coordinates": [
+          979,
+          1494,
+          1053,
+          1524
+        ],
+        "text": "4170050506",
+        "script_language": "assamese"
+      },
+      "polygon_65": {
+        "coordinates": [
+          980,
+          1511,
+          992,
+          1527
+        ],
+        "text": "8",
+        "script_language": "punjabi"
+      },
+      "polygon_66": {
+        "coordinates": [
+          397,
+          1510,
+          452,
+          1636
+        ],
+        "text": "ഇ.എം",
+        "script_language": "malayalam"
+      },
+      "polygon_67": {
+        "coordinates": [
+          993,
+          1516,
+          1027,
+          1536
+        ],
+        "text": " ",
+        "script_language": "assamese"
+      },
+      "polygon_68": {
+        "coordinates": [
+          513,
+          1524,
+          546,
+          1581
+        ],
+        "text": "শ্রী ",
+        "script_language": "assamese"
+      },
+      "polygon_69": {
+        "coordinates": [
+          759,
+          1566,
+          783,
+          1630
+        ],
+        "text": "ਨੂੰ",
+        "script_language": "punjabi"
+      },
+      "polygon_70": {
+        "coordinates": [
+          1530,
+          1592,
+          1617,
+          1629
+        ],
+        "text": "sports",
+        "script_language": "english"
+      },
+      "polygon_71": {
+        "coordinates": [
+          1643,
+          1628,
+          1720,
+          1661
+        ],
+        "text": "complex",
+        "script_language": "english"
+      },
+      "polygon_72": {
+        "coordinates": [
+          1127,
+          1640,
+          1177,
+          1659
+        ],
+        "text": "4040614",
+        "script_language": "gujarati"
+      },
+      "polygon_73": {
+        "coordinates": [
+          1311,
+          1648,
+          1352,
+          1667
+        ],
+        "text": "pobitara",
+        "script_language": "english"
+      },
+      "polygon_74": {
+        "coordinates": [
+          1133,
+          1652,
+          1170,
+          1669
+        ],
+        "text": "ഷോപ്പേ",
+        "script_language": "malayalam"
+      },
+      "polygon_75": {
+        "coordinates": [
+          1312,
+          1660,
+          1350,
+          1686
+        ],
+        "text": "గరకాల",
+        "script_language": "telugu"
+      },
+      "polygon_76": {
+        "coordinates": [
+          474,
+          1675,
+          515,
+          1698
+        ],
+        "text": "ਮਾ",
+        "script_language": "punjabi"
+      },
+      "polygon_77": {
+        "coordinates": [
+          549,
+          1681,
+          570,
+          1738
+        ],
+        "text": "വികസനം",
+        "script_language": "malayalam"
+      },
+      "polygon_78": {
+        "coordinates": [
+          466,
+          1687,
+          518,
+          1712
+        ],
+        "text": "quarter",
+        "script_language": "english"
+      },
+      "polygon_79": {
+        "coordinates": [
+          565,
+          1697,
+          580,
+          1731
+        ],
+        "text": "आदररी",
+        "script_language": "hindi"
+      },
+      "polygon_80": {
+        "coordinates": [
+          658,
+          1714,
+          768,
+          1745
+        ],
+        "text": "assamtypec",
+        "script_language": "english"
+      },
+      "polygon_81": {
+        "coordinates": [
+          768,
+          1737,
+          835,
+          1765
+        ],
+        "text": "quarter",
+        "script_language": "english"
+      },
+      "polygon_82": {
+        "coordinates": [
+          1472,
+          1776,
+          1532,
+          1804
+        ],
+        "text": "നേത്രം പല",
+        "script_language": "malayalam"
+      },
+      "polygon_83": {
+        "coordinates": [
+          621,
+          1785,
+          681,
+          1812
+        ],
+        "text": "ee",
+        "script_language": "malayalam"
+      },
+      "polygon_84": {
+        "coordinates": [
+          628,
+          1797,
+          670,
+          1821
+        ],
+        "text": "house",
+        "script_language": "english"
+      },
+      "polygon_85": {
+        "coordinates": [
+          552,
+          1802,
+          637,
+          1980
+        ],
+        "text": "ഇ.എം",
+        "script_language": "malayalam"
+      },
+      "polygon_86": {
+        "coordinates": [
+          1397,
+          1816,
+          1438,
+          1831
+        ],
+        "text": "८५ा६०",
+        "script_language": "hindi"
+      },
+      "polygon_87": {
+        "coordinates": [
+          503,
+          1813,
+          569,
+          1947
+        ],
+        "text": "400",
+        "script_language": "english"
+      },
+      "polygon_88": {
+        "coordinates": [
+          709,
+          1840,
+          748,
+          1862
+        ],
+        "text": "18પ80",
+        "script_language": "gujarati"
+      },
+      "polygon_89": {
+        "coordinates": [
+          1477,
+          1850,
+          1520,
+          1865
+        ],
+        "text": "പിൽ",
+        "script_language": "malayalam"
+      },
+      "polygon_90": {
+        "coordinates": [
+          706,
+          1851,
+          746,
+          1873
+        ],
+        "text": "dtype",
+        "script_language": "english"
+      },
+      "polygon_91": {
+        "coordinates": [
+          623,
+          1854,
+          652,
+          1906
+        ],
+        "text": "੦੦ਨ1੪",
+        "script_language": "punjabi"
+      },
+      "polygon_92": {
+        "coordinates": [
+          704,
+          1866,
+          737,
+          1883
+        ],
+        "text": "078",
+        "script_language": "punjabi"
+      },
+      "polygon_93": {
+        "coordinates": [
+          1780,
+          1866,
+          1795,
+          1879
+        ],
+        "text": "460",
+        "script_language": "punjabi"
+      },
+      "polygon_94": {
+        "coordinates": [
+          1796,
+          1870,
+          1835,
+          1887
+        ],
+        "text": "0494071",
+        "script_language": "punjabi"
+      },
+      "polygon_95": {
+        "coordinates": [
+          1838,
+          1879,
+          1864,
+          1895
+        ],
+        "text": "mens",
+        "script_language": "english"
+      },
+      "polygon_96": {
+        "coordinates": [
+          599,
+          1909,
+          635,
+          1988
+        ],
+        "text": "৭৩৫",
+        "script_language": "assamese"
+      },
+      "polygon_97": {
+        "coordinates": [
+          846,
+          1923,
+          866,
+          2041
+        ],
+        "text": "internalroad",
+        "script_language": "english"
+      },
+      "polygon_98": {
+        "coordinates": [
+          1366,
+          1942,
+          1423,
+          1962
+        ],
+        "text": "academic",
+        "script_language": "english"
+      },
+      "polygon_99": {
+        "coordinates": [
+          1374,
+          1957,
+          1417,
+          1975
+        ],
+        "text": "bldgii",
+        "script_language": "english"
+      },
+      "polygon_100": {
+        "coordinates": [
+          658,
+          1982,
+          700,
+          2006
+        ],
+        "text": "பமா",
+        "script_language": "tamil"
+      },
+      "polygon_101": {
+        "coordinates": [
+          655,
+          1995,
+          686,
+          2014
+        ],
+        "text": "੧੭੬",
+        "script_language": "punjabi"
+      },
+      "polygon_102": {
+        "coordinates": [
+          685,
+          2006,
+          710,
+          2023
+        ],
+        "text": "018",
+        "script_language": "punjabi"
+      },
+      "polygon_103": {
+        "coordinates": [
+          1248,
+          2017,
+          1306,
+          2038
+        ],
+        "text": "mcjbldg",
+        "script_language": "english"
+      },
+      "polygon_104": {
+        "coordinates": [
+          873,
+          2072,
+          898,
+          2087
+        ],
+        "text": "tec",
+        "script_language": "english"
+      },
+      "polygon_105": {
+        "coordinates": [
+          901,
+          2074,
+          938,
+          2091
+        ],
+        "text": "bldg",
+        "script_language": "english"
+      },
+      "polygon_106": {
+        "coordinates": [
+          1480,
+          2092,
+          1524,
+          2115
+        ],
+        "text": "garden",
+        "script_language": "english"
+      },
+      "polygon_107": {
+        "coordinates": [
+          764,
+          2122,
+          899,
+          2213
+        ],
+        "text": "000",
+        "script_language": "english"
+      },
+      "polygon_108": {
+        "coordinates": [
+          1095,
+          2134,
+          1113,
+          2170
+        ],
+        "text": "হা2মো",
+        "script_language": "assamese"
+      },
+      "polygon_109": {
+        "coordinates": [
+          1406,
+          2136,
+          1486,
+          2184
+        ],
+        "text": "shopping",
+        "script_language": "english"
+      },
+      "polygon_110": {
+        "coordinates": [
+          1279,
+          2140,
+          1293,
+          2211
+        ],
+        "text": "academic",
+        "script_language": "english"
+      },
+      "polygon_111": {
+        "coordinates": [
+          1553,
+          2140,
+          1608,
+          2163
+        ],
+        "text": "ringroad",
+        "script_language": "english"
+      },
+      "polygon_112": {
+        "coordinates": [
+          1291,
+          2162,
+          1304,
+          2214
+        ],
+        "text": "സക്കസ്സ്",
+        "script_language": "malayalam"
+      },
+      "polygon_113": {
+        "coordinates": [
+          1058,
+          2165,
+          1081,
+          2224
+        ],
+        "text": "മതതശ്ശി മാവി",
+        "script_language": "malayalam"
+      },
+      "polygon_114": {
+        "coordinates": [
+          1067,
+          2167,
+          1092,
+          2228
+        ],
+        "text": "മതതശ്ശി മാവി",
+        "script_language": "malayalam"
+      },
+      "polygon_115": {
+        "coordinates": [
+          1077,
+          2170,
+          1103,
+          2228
+        ],
+        "text": "ചളിപ്പറമ്പ്",
+        "script_language": "malayalam"
+      },
+      "polygon_116": {
+        "coordinates": [
+          678,
+          2203,
+          800,
+          2262
+        ],
+        "text": "boundary",
+        "script_language": "english"
+      },
+      "polygon_117": {
+        "coordinates": [
+          1995,
+          2209,
+          2022,
+          2405
+        ],
+        "text": "boundarywal",
+        "script_language": "english"
+      },
+      "polygon_118": {
+        "coordinates": [
+          1414,
+          2220,
+          1503,
+          2270
+        ],
+        "text": "boundary",
+        "script_language": "english"
+      },
+      "polygon_119": {
+        "coordinates": [
+          802,
+          2248,
+          860,
+          2288
+        ],
+        "text": "wall",
+        "script_language": "english"
+      },
+      "polygon_120": {
+        "coordinates": [
+          1503,
+          2260,
+          1546,
+          2291
+        ],
+        "text": "wall",
+        "script_language": "english"
+      },
+      "polygon_121": {
+        "coordinates": [
+          2088,
+          2280,
+          2474,
+          2470
+        ],
+        "text": "tezpur",
+        "script_language": "english"
+      },
+      "polygon_122": {
+        "coordinates": [
+          1609,
+          2335,
+          1663,
+          2351
+        ],
+        "text": "postoffsbi",
+        "script_language": "english"
+      },
+      "polygon_123": {
+        "coordinates": [
+          2493,
+          2331,
+          2871,
+          2503
+        ],
+        "text": "universit",
+        "script_language": "english"
+      },
+      "polygon_124": {
+        "coordinates": [
+          1286,
+          2372,
+          1326,
+          2423
+        ],
+        "text": "੨",
+        "script_language": "punjabi"
+      },
+      "polygon_125": {
+        "coordinates": [
+          1661,
+          2408,
+          1687,
+          2427
+        ],
+        "text": "main",
+        "script_language": "english"
+      },
+      "polygon_126": {
+        "coordinates": [
+          1659,
+          2423,
+          1687,
+          2441
+        ],
+        "text": "6425",
+        "script_language": "assamese"
+      },
+      "polygon_127": {
+        "coordinates": [
+          768,
+          2471,
+          830,
+          2544
+        ],
+        "text": "w",
+        "script_language": "english"
+      },
+      "polygon_128": {
+        "coordinates": [
+          1714,
+          2486,
+          1745,
+          2534
+        ],
+        "text": "શ્રી",
+        "script_language": "gujarati"
+      },
+      "polygon_129": {
+        "coordinates": [
+          2267,
+          2531,
+          2639,
+          2694
+        ],
+        "text": "master",
+        "script_language": "english"
+      },
+      "polygon_130": {
+        "coordinates": [
+          2653,
+          2551,
+          2853,
+          2696
+        ],
+        "text": "plan",
+        "script_language": "english"
+      },
+      "polygon_131": {
+        "coordinates": [
+          519,
+          2590,
+          570,
+          2661
+        ],
+        "text": "੦",
+        "script_language": "punjabi"
+      },
+      "polygon_132": {
+        "coordinates": [
+          1808,
+          2627,
+          1883,
+          2684
+        ],
+        "text": "tezpur",
+        "script_language": "english"
+      },
+      "polygon_133": {
+        "coordinates": [
+          1885,
+          2668,
+          1917,
+          2703
+        ],
+        "text": "714",
+        "script_language": "gujarati"
+      },
+      "polygon_134": {
+        "coordinates": [
+          1915,
+          2687,
+          2021,
+          2760
+        ],
+        "text": "panchmile",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_18": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          1098,
+          449,
+          1482,
+          676
+        ],
+        "text": "ઉપગ્રહો",
+        "script_language": "gujarati"
+      },
+      "polygon_1": {
+        "coordinates": [
+          518,
+          586,
+          1046,
+          841
+        ],
+        "text": "ભૂઅવલોકન",
+        "script_language": "gujarati"
+      },
+      "polygon_2": {
+        "coordinates": [
+          1321,
+          699,
+          1558,
+          844
+        ],
+        "text": "india",
+        "script_language": "english"
+      },
+      "polygon_3": {
+        "coordinates": [
+          193,
+          732,
+          482,
+          874
+        ],
+        "text": "ભારતના",
+        "script_language": "gujarati"
+      },
+      "polygon_4": {
+        "coordinates": [
+          1196,
+          746,
+          1301,
+          867
+        ],
+        "text": "of",
+        "script_language": "english"
+      },
+      "polygon_5": {
+        "coordinates": [
+          787,
+          770,
+          1178,
+          942
+        ],
+        "text": "satellites",
+        "script_language": "english"
+      },
+      "polygon_6": {
+        "coordinates": [
+          367,
+          852,
+          774,
+          1014
+        ],
+        "text": "observation",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          1256,
+          926,
+          1465,
+          994
+        ],
+        "text": "୧ଥରାପି୫ ଥ୫",
+        "script_language": "odia"
+      },
+      "polygon_8": {
+        "coordinates": [
+          193,
+          934,
+          357,
+          1042
+        ],
+        "text": "earth",
+        "script_language": "english"
+      },
+      "polygon_9": {
+        "coordinates": [
+          1144,
+          967,
+          1243,
+          1011
+        ],
+        "text": "અલગ",
+        "script_language": "gujarati"
+      },
+      "polygon_10": {
+        "coordinates": [
+          1037,
+          984,
+          1131,
+          1028
+        ],
+        "text": "અલગ",
+        "script_language": "gujarati"
+      },
+      "polygon_11": {
+        "coordinates": [
+          995,
+          992,
+          1026,
+          1035
+        ],
+        "text": "જે",
+        "script_language": "gujarati"
+      },
+      "polygon_12": {
+        "coordinates": [
+          946,
+          996,
+          983,
+          1046
+        ],
+        "text": "છે",
+        "script_language": "gujarati"
+      },
+      "polygon_13": {
+        "coordinates": [
+          877,
+          1001,
+          938,
+          1053
+        ],
+        "text": "કર્યો",
+        "script_language": "gujarati"
+      },
+      "polygon_14": {
+        "coordinates": [
+          739,
+          1012,
+          868,
+          1074
+        ],
+        "text": "પ્રસ્થાપિત",
+        "script_language": "gujarati"
+      },
+      "polygon_15": {
+        "coordinates": [
+          1265,
+          1023,
+          1307,
+          1074
+        ],
+        "text": "છે",
+        "script_language": "gujarati"
+      },
+      "polygon_16": {
+        "coordinates": [
+          1186,
+          1027,
+          1249,
+          1084
+        ],
+        "text": "પાડે",
+        "script_language": "gujarati"
+      },
+      "polygon_17": {
+        "coordinates": [
+          1112,
+          1042,
+          1175,
+          1107
+        ],
+        "text": "પુરી",
+        "script_language": "gujarati"
+      },
+      "polygon_18": {
+        "coordinates": [
+          664,
+          1047,
+          729,
+          1096
+        ],
+        "text": "સમુહ",
+        "script_language": "gujarati"
+      },
+      "polygon_19": {
+        "coordinates": [
+          597,
+          1049,
+          655,
+          1094
+        ],
+        "text": "મોટો",
+        "script_language": "gujarati"
+      },
+      "polygon_20": {
+        "coordinates": [
+          1038,
+          1049,
+          1098,
+          1104
+        ],
+        "text": "માટે",
+        "script_language": "gujarati"
+      },
+      "polygon_21": {
+        "coordinates": [
+          525,
+          1056,
+          589,
+          1105
+        ],
+        "text": "સૌથી",
+        "script_language": "gujarati"
+      },
+      "polygon_22": {
+        "coordinates": [
+          904,
+          1066,
+          1028,
+          1123
+        ],
+        "text": "ઉપયોગો",
+        "script_language": "gujarati"
+      },
+      "polygon_23": {
+        "coordinates": [
+          405,
+          1069,
+          519,
+          1122
+        ],
+        "text": "ઉપગ્રહોનો",
+        "script_language": "gujarati"
+      },
+      "polygon_24": {
+        "coordinates": [
+          801,
+          1085,
+          893,
+          1137
+        ],
+        "text": "વિભિન્ન",
+        "script_language": "gujarati"
+      },
+      "polygon_25": {
+        "coordinates": [
+          260,
+          1085,
+          397,
+          1152
+        ],
+        "text": "ભૂઅવલોકન",
+        "script_language": "gujarati"
+      },
+      "polygon_26": {
+        "coordinates": [
+          634,
+          1098,
+          791,
+          1159
+        ],
+        "text": "છબીમાહિતી",
+        "script_language": "gujarati"
+      },
+      "polygon_27": {
+        "coordinates": [
+          193,
+          1105,
+          254,
+          1152
+        ],
+        "text": "ભારતે",
+        "script_language": "gujarati"
+      },
+      "polygon_28": {
+        "coordinates": [
+          502,
+          1121,
+          625,
+          1175
+        ],
+        "text": "વિભાગોની",
+        "script_language": "gujarati"
+      },
+      "polygon_29": {
+        "coordinates": [
+          1331,
+          1125,
+          1552,
+          1186
+        ],
+        "text": "satellites",
+        "script_language": "english"
+      },
+      "polygon_30": {
+        "coordinates": [
+          388,
+          1140,
+          494,
+          1194
+        ],
+        "text": "વર્ણપટિય",
+        "script_language": "gujarati"
+      },
+      "polygon_31": {
+        "coordinates": [
+          332,
+          1152,
+          379,
+          1197
+        ],
+        "text": "અને",
+        "script_language": "gujarati"
+      },
+      "polygon_32": {
+        "coordinates": [
+          1073,
+          1155,
+          1319,
+          1216
+        ],
+        "text": "பீரு   உப்பை",
+        "script_language": "tamil"
+      },
+      "polygon_33": {
+        "coordinates": [
+          257,
+          1161,
+          326,
+          1206
+        ],
+        "text": "સંબંધી",
+        "script_language": "gujarati"
+      },
+      "polygon_34": {
+        "coordinates": [
+          193,
+          1175,
+          249,
+          1213
+        ],
+        "text": "અંતર",
+        "script_language": "gujarati"
+      },
+      "polygon_35": {
+        "coordinates": [
+          964,
+          1183,
+          1064,
+          1228
+        ],
+        "text": "earth",
+        "script_language": "english"
+      },
+      "polygon_36": {
+        "coordinates": [
+          914,
+          1195,
+          955,
+          1236
+        ],
+        "text": "of",
+        "script_language": "english"
+      },
+      "polygon_37": {
+        "coordinates": [
+          1349,
+          1197,
+          1418,
+          1239
+        ],
+        "text": "for",
+        "script_language": "english"
+      },
+      "polygon_38": {
+        "coordinates": [
+          682,
+          1204,
+          905,
+          1258
+        ],
+        "text": "constellation",
+        "script_language": "english"
+      },
+      "polygon_39": {
+        "coordinates": [
+          1207,
+          1205,
+          1337,
+          1253
+        ],
+        "text": "bands",
+        "script_language": "english"
+      },
+      "polygon_40": {
+        "coordinates": [
+          1038,
+          1220,
+          1197,
+          1277
+        ],
+        "text": "spectral",
+        "script_language": "english"
+      },
+      "polygon_41": {
+        "coordinates": [
+          561,
+          1232,
+          674,
+          1276
+        ],
+        "text": "largest",
+        "script_language": "english"
+      },
+      "polygon_42": {
+        "coordinates": [
+          955,
+          1237,
+          1026,
+          1280
+        ],
+        "text": "and",
+        "script_language": "english"
+      },
+      "polygon_43": {
+        "coordinates": [
+          505,
+          1241,
+          556,
+          1278
+        ],
+        "text": "the",
+        "script_language": "english"
+      },
+      "polygon_44": {
+        "coordinates": [
+          333,
+          1247,
+          497,
+          1293
+        ],
+        "text": "established",
+        "script_language": "english"
+      },
+      "polygon_45": {
+        "coordinates": [
+          745,
+          1249,
+          947,
+          1299
+        ],
+        "text": "resolutions",
+        "script_language": "english"
+      },
+      "polygon_46": {
+        "coordinates": [
+          277,
+          1265,
+          327,
+          1300
+        ],
+        "text": "has",
+        "script_language": "english"
+      },
+      "polygon_47": {
+        "coordinates": [
+          629,
+          1267,
+          739,
+          1317
+        ],
+        "text": "spatial",
+        "script_language": "english"
+      },
+      "polygon_48": {
+        "coordinates": [
+          202,
+          1271,
+          271,
+          1307
+        ],
+        "text": "india",
+        "script_language": "english"
+      },
+      "polygon_49": {
+        "coordinates": [
+          586,
+          1278,
+          622,
+          1315
+        ],
+        "text": "of",
+        "script_language": "english"
+      },
+      "polygon_50": {
+        "coordinates": [
+          471,
+          1285,
+          578,
+          1328
+        ],
+        "text": "variety",
+        "script_language": "english"
+      },
+      "polygon_51": {
+        "coordinates": [
+          409,
+          1297,
+          440,
+          1330
+        ],
+        "text": "in",
+        "script_language": "english"
+      },
+      "polygon_52": {
+        "coordinates": [
+          447,
+          1302,
+          466,
+          1327
+        ],
+        "text": "૧",
+        "script_language": "gujarati"
+      },
+      "polygon_53": {
+        "coordinates": [
+          342,
+          1303,
+          403,
+          1336
+        ],
+        "text": "તેમ18",
+        "script_language": "gujarati"
+      },
+      "polygon_54": {
+        "coordinates": [
+          202,
+          1308,
+          335,
+          1354
+        ],
+        "text": "ஹாமாப்பிப்படி",
+        "script_language": "tamil"
+      },
+      "polygon_55": {
+        "coordinates": [
+          330,
+          1335,
+          514,
+          1386
+        ],
+        "text": "applications",
+        "script_language": "english"
+      },
+      "polygon_56": {
+        "coordinates": [
+          205,
+          1353,
+          324,
+          1389
+        ],
+        "text": "different",
+        "script_language": "english"
+      },
+      "polygon_57": {
+        "coordinates": [
+          1284,
+          1540,
+          1366,
+          1581
+        ],
+        "text": "irsp3",
+        "script_language": "english"
+      },
+      "polygon_58": {
+        "coordinates": [
+          975,
+          1552,
+          1041,
+          1590
+        ],
+        "text": "irs1c",
+        "script_language": "english"
+      },
+      "polygon_59": {
+        "coordinates": [
+          746,
+          1560,
+          811,
+          1597
+        ],
+        "text": "irsp2",
+        "script_language": "english"
+      },
+      "polygon_60": {
+        "coordinates": [
+          521,
+          1568,
+          572,
+          1602
+        ],
+        "text": "irs1e",
+        "script_language": "english"
+      },
+      "polygon_61": {
+        "coordinates": [
+          266,
+          1573,
+          347,
+          1607
+        ],
+        "text": "irs1a1b",
+        "script_language": "english"
+      },
+      "polygon_62": {
+        "coordinates": [
+          1283,
+          1587,
+          1329,
+          1606
+        ],
+        "text": "march21",
+        "script_language": "english"
+      },
+      "polygon_63": {
+        "coordinates": [
+          1332,
+          1586,
+          1360,
+          1604
+        ],
+        "text": "1996",
+        "script_language": "english"
+      },
+      "polygon_64": {
+        "coordinates": [
+          1038,
+          1593,
+          1061,
+          1611
+        ],
+        "text": "1995",
+        "script_language": "english"
+      },
+      "polygon_65": {
+        "coordinates": [
+          975,
+          1594,
+          1034,
+          1613
+        ],
+        "text": "december28",
+        "script_language": "english"
+      },
+      "polygon_66": {
+        "coordinates": [
+          744,
+          1602,
+          789,
+          1619
+        ],
+        "text": "october15",
+        "script_language": "english"
+      },
+      "polygon_67": {
+        "coordinates": [
+          789,
+          1600,
+          811,
+          1618
+        ],
+        "text": "1994",
+        "script_language": "gujarati"
+      },
+      "polygon_68": {
+        "coordinates": [
+          520,
+          1606,
+          592,
+          1624
+        ],
+        "text": "septamber201993",
+        "script_language": "english"
+      },
+      "polygon_69": {
+        "coordinates": [
+          1325,
+          1609,
+          1355,
+          1627
+        ],
+        "text": "mos",
+        "script_language": "english"
+      },
+      "polygon_70": {
+        "coordinates": [
+          1354,
+          1608,
+          1388,
+          1628
+        ],
+        "text": "xray",
+        "script_language": "english"
+      },
+      "polygon_71": {
+        "coordinates": [
+          264,
+          1611,
+          312,
+          1625
+        ],
+        "text": "march171988",
+        "script_language": "english"
+      },
+      "polygon_72": {
+        "coordinates": [
+          1295,
+          1610,
+          1325,
+          1628
+        ],
+        "text": "wifs",
+        "script_language": "english"
+      },
+      "polygon_73": {
+        "coordinates": [
+          976,
+          1616,
+          1020,
+          1634
+        ],
+        "text": "1188",
+        "script_language": "gujarati"
+      },
+      "polygon_74": {
+        "coordinates": [
+          1020,
+          1615,
+          1044,
+          1633
+        ],
+        "text": "pan",
+        "script_language": "english"
+      },
+      "polygon_75": {
+        "coordinates": [
+          1044,
+          1614,
+          1070,
+          1633
+        ],
+        "text": "wifs",
+        "script_language": "english"
+      },
+      "polygon_76": {
+        "coordinates": [
+          746,
+          1622,
+          784,
+          1639
+        ],
+        "text": "11882",
+        "script_language": "gujarati"
+      },
+      "polygon_77": {
+        "coordinates": [
+          264,
+          1626,
+          315,
+          1642
+        ],
+        "text": "angust29190",
+        "script_language": "english"
+      },
+      "polygon_78": {
+        "coordinates": [
+          521,
+          1626,
+          553,
+          1642
+        ],
+        "text": "2050",
+        "script_language": "assamese"
+      },
+      "polygon_79": {
+        "coordinates": [
+          266,
+          1645,
+          304,
+          1660
+        ],
+        "text": "10318",
+        "script_language": "bengali"
+      },
+      "polygon_80": {
+        "coordinates": [
+          262,
+          1847,
+          308,
+          1879
+        ],
+        "text": "irs1d",
+        "script_language": "english"
+      },
+      "polygon_81": {
+        "coordinates": [
+          461,
+          1853,
+          627,
+          1893
+        ],
+        "text": "oceansat1irsp4",
+        "script_language": "english"
+      },
+      "polygon_82": {
+        "coordinates": [
+          737,
+          1863,
+          773,
+          1898
+        ],
+        "text": "tes",
+        "script_language": "english"
+      },
+      "polygon_83": {
+        "coordinates": [
+          928,
+          1872,
+          1085,
+          1913
+        ],
+        "text": "resourcesat1",
+        "script_language": "english"
+      },
+      "polygon_84": {
+        "coordinates": [
+          261,
+          1882,
+          325,
+          1899
+        ],
+        "text": "septomber291997",
+        "script_language": "english"
+      },
+      "polygon_85": {
+        "coordinates": [
+          1090,
+          1875,
+          1184,
+          1919
+        ],
+        "text": "irsp6",
+        "script_language": "english"
+      },
+      "polygon_86": {
+        "coordinates": [
+          1262,
+          1883,
+          1399,
+          1925
+        ],
+        "text": "cartosat1",
+        "script_language": "english"
+      },
+      "polygon_87": {
+        "coordinates": [
+          460,
+          1889,
+          507,
+          1906
+        ],
+        "text": "may261999",
+        "script_language": "english"
+      },
+      "polygon_88": {
+        "coordinates": [
+          1405,
+          1886,
+          1512,
+          1933
+        ],
+        "text": "irsp5",
+        "script_language": "english"
+      },
+      "polygon_89": {
+        "coordinates": [
+          263,
+          1901,
+          329,
+          1918
+        ],
+        "text": "lissilpanwies",
+        "script_language": "english"
+      },
+      "polygon_90": {
+        "coordinates": [
+          737,
+          1902,
+          805,
+          1921
+        ],
+        "text": "0222 22201",
+        "script_language": "gujarati"
+      },
+      "polygon_91": {
+        "coordinates": [
+          461,
+          1909,
+          513,
+          1926
+        ],
+        "text": "ocmmsmr",
+        "script_language": "english"
+      },
+      "polygon_92": {
+        "coordinates": [
+          926,
+          1913,
+          971,
+          1930
+        ],
+        "text": "october17",
+        "script_language": "english"
+      },
+      "polygon_93": {
+        "coordinates": [
+          972,
+          1914,
+          999,
+          1932
+        ],
+        "text": "2003",
+        "script_language": "gujarati"
+      },
+      "polygon_94": {
+        "coordinates": [
+          739,
+          1923,
+          766,
+          1940
+        ],
+        "text": "pan",
+        "script_language": "english"
+      },
+      "polygon_95": {
+        "coordinates": [
+          1260,
+          1926,
+          1292,
+          1945
+        ],
+        "text": "may5",
+        "script_language": "english"
+      },
+      "polygon_96": {
+        "coordinates": [
+          1293,
+          1928,
+          1324,
+          1946
+        ],
+        "text": "2005",
+        "script_language": "english"
+      },
+      "polygon_97": {
+        "coordinates": [
+          928,
+          1934,
+          992,
+          1953
+        ],
+        "text": "162111155",
+        "script_language": "gujarati"
+      },
+      "polygon_98": {
+        "coordinates": [
+          993,
+          1936,
+          1033,
+          1955
+        ],
+        "text": "ivawifs",
+        "script_language": "english"
+      },
+      "polygon_99": {
+        "coordinates": [
+          1263,
+          1950,
+          1345,
+          1970
+        ],
+        "text": "panforealt",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_38": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          678,
+          1198,
+          940,
+          1365
+        ],
+        "text": "സംസ്ഥാനം",
+        "script_language": "malayalam"
+      },
+      "polygon_1": {
+        "coordinates": [
+          1655,
+          1708,
+          1900,
+          1867
+        ],
+        "text": "പക്ഷപ്പുഴ",
+        "script_language": "malayalam"
+      },
+      "polygon_2": {
+        "coordinates": [
+          2482,
+          2098,
+          2671,
+          2208
+        ],
+        "text": " ",
+        "script_language": "bengali"
+      },
+      "polygon_3": {
+        "coordinates": [
+          2184,
+          2121,
+          2483,
+          2238
+        ],
+        "text": "कोलाए",
+        "script_language": "marathi"
+      },
+      "polygon_4": {
+        "coordinates": [
+          1775,
+          2162,
+          2117,
+          2270
+        ],
+        "text": " ",
+        "script_language": "bengali"
+      },
+      "polygon_5": {
+        "coordinates": [
+          1616,
+          2312,
+          2526,
+          2607
+        ],
+        "text": "hospita",
+        "script_language": "english"
+      },
+      "polygon_6": {
+        "coordinates": [
+          762,
+          2393,
+          1524,
+          2675
+        ],
+        "text": "saiyon",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          1970,
+          2776,
+          2231,
+          3008
+        ],
+        "text": "2૫",
+        "script_language": "gujarati"
+      },
+      "polygon_8": {
+        "coordinates": [
+          549,
+          2784,
+          1821,
+          3111
+        ],
+        "text": "mergency",
+        "script_language": "english"
+      },
+      "polygon_9": {
+        "coordinates": [
+          708,
+          3102,
+          808,
+          3111
+        ],
+        "text": "21",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_39": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          984,
+          1734,
+          1268,
+          1827
+        ],
+        "text": "உலுக்கம்",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          686,
+          1735,
+          960,
+          1831
+        ],
+        "text": "58ਐਸ",
+        "script_language": "punjabi"
+      },
+      "polygon_2": {
+        "coordinates": [
+          2404,
+          1917,
+          2657,
+          2065
+        ],
+        "text": "247",
+        "script_language": "english"
+      },
+      "polygon_3": {
+        "coordinates": [
+          1671,
+          2408,
+          2184,
+          2511
+        ],
+        "text": "mongjing",
+        "script_language": "english"
+      },
+      "polygon_4": {
+        "coordinates": [
+          1129,
+          2412,
+          1644,
+          2501
+        ],
+        "text": "thongkha",
+        "script_language": "english"
+      },
+      "polygon_5": {
+        "coordinates": [
+          693,
+          2421,
+          1088,
+          2508
+        ],
+        "text": "nambol",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_29": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          1388,
+          1627,
+          2052,
+          1933
+        ],
+        "text": "इंडियनऑयल",
+        "script_language": "marathi"
+      },
+      "polygon_1": {
+        "coordinates": [
+          1254,
+          2221,
+          2020,
+          2528
+        ],
+        "text": "indianoil",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_28": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          1742,
+          1459,
+          1969,
+          1593
+        ],
+        "text": "है रहे",
+        "script_language": "hindi"
+      },
+      "polygon_1": {
+        "coordinates": [
+          992,
+          1464,
+          1188,
+          1565
+        ],
+        "text": "বোট য  ন দং ",
+        "script_language": "bengali"
+      },
+      "polygon_2": {
+        "coordinates": [
+          1510,
+          1472,
+          1702,
+          1583
+        ],
+        "text": "তেন",
+        "script_language": "assamese"
+      },
+      "polygon_3": {
+        "coordinates": [
+          1237,
+          1476,
+          1468,
+          1577
+        ],
+        "text": "ড৹তে",
+        "script_language": "assamese"
+      },
+      "polygon_4": {
+        "coordinates": [
+          1966,
+          1476,
+          2100,
+          1598
+        ],
+        "text": "୧୭ା",
+        "script_language": "odia"
+      },
+      "polygon_5": {
+        "coordinates": [
+          1478,
+          1729,
+          1615,
+          1929
+        ],
+        "text": "স্থাপ প্রাণ ",
+        "script_language": "bengali"
+      },
+      "polygon_6": {
+        "coordinates": [
+          1595,
+          2392,
+          1724,
+          2502
+        ],
+        "text": "no",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          1170,
+          2396,
+          1548,
+          2514
+        ],
+        "text": "license",
+        "script_language": "english"
+      },
+      "polygon_8": {
+        "coordinates": [
+          958,
+          2594,
+          1941,
+          2751
+        ],
+        "text": "510989972024",
+        "script_language": "marathi"
+      },
+      "polygon_9": {
+        "coordinates": [
+          653,
+          3144,
+          814,
+          3174
+        ],
+        "text": "madamingia",
+        "script_language": "english"
+      },
+      "polygon_10": {
+        "coordinates": [
+          476,
+          3157,
+          616,
+          3186
+        ],
+        "text": "നമ്മുറവിൽ",
+        "script_language": "malayalam"
+      },
+      "polygon_11": {
+        "coordinates": [
+          732,
+          3172,
+          837,
+          3203
+        ],
+        "text": "bndus",
+        "script_language": "english"
+      },
+      "polygon_12": {
+        "coordinates": [
+          629,
+          3176,
+          730,
+          3213
+        ],
+        "text": "tries",
+        "script_language": "english"
+      },
+      "polygon_13": {
+        "coordinates": [
+          545,
+          3186,
+          620,
+          3218
+        ],
+        "text": "11મા",
+        "script_language": "gujarati"
+      },
+      "polygon_14": {
+        "coordinates": [
+          475,
+          3191,
+          543,
+          3222
+        ],
+        "text": "011",
+        "script_language": "gujarati"
+      },
+      "polygon_15": {
+        "coordinates": [
+          784,
+          3215,
+          843,
+          3246
+        ],
+        "text": "7719",
+        "script_language": "gujarati"
+      },
+      "polygon_16": {
+        "coordinates": [
+          678,
+          3224,
+          741,
+          3253
+        ],
+        "text": "ઝાર",
+        "script_language": "gujarati"
+      },
+      "polygon_17": {
+        "coordinates": [
+          586,
+          3228,
+          647,
+          3260
+        ],
+        "text": "०८८३",
+        "script_language": "hindi"
+      },
+      "polygon_18": {
+        "coordinates": [
+          475,
+          3239,
+          520,
+          3261
+        ],
+        "text": "ww",
+        "script_language": "english"
+      },
+      "polygon_19": {
+        "coordinates": [
+          872,
+          3239,
+          963,
+          3315
+        ],
+        "text": "জা",
+        "script_language": "assamese"
+      },
+      "polygon_20": {
+        "coordinates": [
+          761,
+          3258,
+          837,
+          3292
+        ],
+        "text": "dom",
+        "script_language": "english"
+      },
+      "polygon_21": {
+        "coordinates": [
+          661,
+          3266,
+          735,
+          3300
+        ],
+        "text": "4167",
+        "script_language": "gujarati"
+      },
+      "polygon_22": {
+        "coordinates": [
+          547,
+          3273,
+          653,
+          3307
+        ],
+        "text": "2024",
+        "script_language": "english"
+      },
+      "polygon_23": {
+        "coordinates": [
+          734,
+          3298,
+          832,
+          3324
+        ],
+        "text": "dreaters",
+        "script_language": "english"
+      },
+      "polygon_24": {
+        "coordinates": [
+          597,
+          3306,
+          731,
+          3333
+        ],
+        "text": "ભાગ",
+        "script_language": "gujarati"
+      },
+      "polygon_25": {
+        "coordinates": [
+          791,
+          3325,
+          850,
+          3348
+        ],
+        "text": "કમ્વાન",
+        "script_language": "gujarati"
+      },
+      "polygon_26": {
+        "coordinates": [
+          575,
+          3328,
+          788,
+          3362
+        ],
+        "text": "સરાવરાથી",
+        "script_language": "gujarati"
+      },
+      "polygon_27": {
+        "coordinates": [
+          822,
+          3359,
+          884,
+          3382
+        ],
+        "text": "914111",
+        "script_language": "gujarati"
+      },
+      "polygon_28": {
+        "coordinates": [
+          646,
+          3363,
+          821,
+          3392
+        ],
+        "text": "કરાવભા",
+        "script_language": "gujarati"
+      },
+      "polygon_29": {
+        "coordinates": [
+          568,
+          3385,
+          947,
+          3471
+        ],
+        "text": "vboor",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_49": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          1659,
+          1277,
+          2084,
+          1453
+        ],
+        "text": "joeppy",
+        "script_language": "english"
+      },
+      "polygon_1": {
+        "coordinates": [
+          904,
+          1282,
+          1404,
+          1472
+        ],
+        "text": " ",
+        "script_language": "bengali"
+      },
+      "polygon_2": {
+        "coordinates": [
+          1467,
+          1292,
+          1655,
+          1449
+        ],
+        "text": "erp",
+        "script_language": "english"
+      },
+      "polygon_3": {
+        "coordinates": [
+          1549,
+          1500,
+          2406,
+          1732
+        ],
+        "text": "611641",
+        "script_language": "gujarati"
+      },
+      "polygon_4": {
+        "coordinates": [
+          820,
+          1539,
+          1475,
+          1766
+        ],
+        "text": "ysana",
+        "script_language": "english"
+      },
+      "polygon_5": {
+        "coordinates": [
+          1426,
+          2031,
+          1921,
+          2249
+        ],
+        "text": "nzak",
+        "script_language": "english"
+      },
+      "polygon_6": {
+        "coordinates": [
+          1063,
+          2058,
+          1295,
+          2262
+        ],
+        "text": "ઉમ",
+        "script_language": "gujarati"
+      }
+    }
+  },
+  "IMG_48": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          2020,
+          1532,
+          2911,
+          1729
+        ],
+        "text": "journal",
+        "script_language": "english"
+      },
+      "polygon_1": {
+        "coordinates": [
+          1018,
+          1546,
+          1992,
+          1703
+        ],
+        "text": "monthly",
+        "script_language": "english"
+      },
+      "polygon_2": {
+        "coordinates": [
+          837,
+          1544,
+          975,
+          1696
+        ],
+        "text": "a",
+        "script_language": "english"
+      },
+      "polygon_3": {
+        "coordinates": [
+          176,
+          1900,
+          1266,
+          2261
+        ],
+        "text": "দীবটে",
+        "script_language": "assamese"
+      },
+      "polygon_4": {
+        "coordinates": [
+          2014,
+          1921,
+          2853,
+          2268
+        ],
+        "text": "লংজিল",
+        "script_language": "bengali"
+      },
+      "polygon_5": {
+        "coordinates": [
+          1317,
+          1985,
+          1954,
+          2282
+        ],
+        "text": "লংলা",
+        "script_language": "bengali"
+      },
+      "polygon_6": {
+        "coordinates": [
+          839,
+          2500,
+          1660,
+          2666
+        ],
+        "text": "june202",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          2226,
+          2499,
+          2892,
+          2734
+        ],
+        "text": "rs50",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_46": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          1009,
+          919,
+          1281,
+          998
+        ],
+        "text": "58ਏ",
+        "script_language": "punjabi"
+      },
+      "polygon_1": {
+        "coordinates": [
+          1289,
+          955,
+          1663,
+          1030
+        ],
+        "text": "সবাস্যালে  বে ",
+        "script_language": "bengali"
+      },
+      "polygon_2": {
+        "coordinates": [
+          198,
+          946,
+          447,
+          1162
+        ],
+        "text": "ib",
+        "script_language": "english"
+      },
+      "polygon_3": {
+        "coordinates": [
+          705,
+          995,
+          1273,
+          1234
+        ],
+        "text": "ama",
+        "script_language": "english"
+      },
+      "polygon_4": {
+        "coordinates": [
+          1324,
+          1061,
+          2525,
+          1337
+        ],
+        "text": "complex",
+        "script_language": "english"
+      },
+      "polygon_5": {
+        "coordinates": [
+          245,
+          1190,
+          656,
+          1293
+        ],
+        "text": "nambol",
+        "script_language": "english"
+      },
+      "polygon_6": {
+        "coordinates": [
+          678,
+          1223,
+          995,
+          1323
+        ],
+        "text": "sabal",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          1016,
+          1262,
+          1399,
+          1369
+        ],
+        "text": "leikal",
+        "script_language": "english"
+      },
+      "polygon_8": {
+        "coordinates": [
+          1430,
+          1299,
+          2070,
+          1420
+        ],
+        "text": "bishnupur",
+        "script_language": "english"
+      },
+      "polygon_9": {
+        "coordinates": [
+          824,
+          1328,
+          1307,
+          1437
+        ],
+        "text": "manipur",
+        "script_language": "english"
+      },
+      "polygon_10": {
+        "coordinates": [
+          2093,
+          1352,
+          2379,
+          1447
+        ],
+        "text": "dist",
+        "script_language": "english"
+      },
+      "polygon_11": {
+        "coordinates": [
+          1335,
+          1372,
+          1649,
+          1469
+        ],
+        "text": "795134",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_47": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          1894,
+          1278,
+          2186,
+          1372
+        ],
+        "text": "ঈনাঢ়ি",
+        "script_language": "assamese"
+      },
+      "polygon_1": {
+        "coordinates": [
+          2245,
+          1285,
+          2583,
+          1360
+        ],
+        "text": "ஙணகளண",
+        "script_language": "tamil"
+      },
+      "polygon_2": {
+        "coordinates": [
+          1923,
+          1394,
+          2837,
+          1621
+        ],
+        "text": "dalmia",
+        "script_language": "english"
+      },
+      "polygon_3": {
+        "coordinates": [
+          102,
+          1552,
+          1415,
+          1775
+        ],
+        "text": "publichall",
+        "script_language": "english"
+      },
+      "polygon_4": {
+        "coordinates": [
+          2217,
+          1626,
+          2824,
+          1755
+        ],
+        "text": "cement",
+        "script_language": "english"
+      },
+      "polygon_5": {
+        "coordinates": [
+          2420,
+          1831,
+          2825,
+          1921
+        ],
+        "text": "today",
+        "script_language": "english"
+      },
+      "polygon_6": {
+        "coordinates": [
+          1869,
+          1840,
+          2360,
+          1933
+        ],
+        "text": "future",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          1759,
+          3170,
+          1932,
+          3197
+        ],
+        "text": "ச௺சியங்களை",
+        "script_language": "tamil"
+      },
+      "polygon_8": {
+        "coordinates": [
+          1936,
+          3174,
+          2011,
+          3198
+        ],
+        "text": "ടൗൺ",
+        "script_language": "malayalam"
+      },
+      "polygon_9": {
+        "coordinates": [
+          1748,
+          3197,
+          1947,
+          3220
+        ],
+        "text": "ouriyamvariet",
+        "script_language": "english"
+      },
+      "polygon_10": {
+        "coordinates": [
+          1949,
+          3199,
+          2017,
+          3222
+        ],
+        "text": "store",
+        "script_language": "english"
+      },
+      "polygon_11": {
+        "coordinates": [
+          1763,
+          3222,
+          1925,
+          3243
+        ],
+        "text": "nambolsabal",
+        "script_language": "english"
+      },
+      "polygon_12": {
+        "coordinates": [
+          1929,
+          3222,
+          2006,
+          3244
+        ],
+        "text": "leikai",
+        "script_language": "english"
+      },
+      "polygon_13": {
+        "coordinates": [
+          1779,
+          3369,
+          1941,
+          3395
+        ],
+        "text": "ritchenhems",
+        "script_language": "english"
+      },
+      "polygon_14": {
+        "coordinates": [
+          610,
+          3616,
+          1215,
+          3770
+        ],
+        "text": "ಮಾರ್",
+        "script_language": "kannada"
+      }
+    }
+  },
+  "IMG_45": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          2238,
+          1741,
+          2409,
+          1882
+        ],
+        "text": "रुारेऽ",
+        "script_language": "marathi"
+      },
+      "polygon_1": {
+        "coordinates": [
+          2454,
+          1777,
+          2649,
+          1898
+        ],
+        "text": "యాఇ",
+        "script_language": "telugu"
+      },
+      "polygon_2": {
+        "coordinates": [
+          2770,
+          3342,
+          2900,
+          3407
+        ],
+        "text": "ਸਵਰੂ",
+        "script_language": "punjabi"
+      },
+      "polygon_3": {
+        "coordinates": [
+          2844,
+          3398,
+          2886,
+          3416
+        ],
+        "text": "ee",
+        "script_language": "malayalam"
+      },
+      "polygon_4": {
+        "coordinates": [
+          2788,
+          3422,
+          2856,
+          3439
+        ],
+        "text": "zamani",
+        "script_language": "english"
+      },
+      "polygon_5": {
+        "coordinates": [
+          2857,
+          3421,
+          2883,
+          3438
+        ],
+        "text": "07",
+        "script_language": "punjabi"
+      },
+      "polygon_6": {
+        "coordinates": [
+          2884,
+          3420,
+          2941,
+          3437
+        ],
+        "text": "হতেও",
+        "script_language": "assamese"
+      },
+      "polygon_7": {
+        "coordinates": [
+          2741,
+          3423,
+          2788,
+          3440
+        ],
+        "text": "સરાજકરી",
+        "script_language": "gujarati"
+      },
+      "polygon_8": {
+        "coordinates": [
+          2077,
+          3654,
+          2170,
+          3703
+        ],
+        "text": "૧૪",
+        "script_language": "gujarati"
+      },
+      "polygon_9": {
+        "coordinates": [
+          1637,
+          3666,
+          1766,
+          3737
+        ],
+        "text": "ભય",
+        "script_language": "gujarati"
+      },
+      "polygon_10": {
+        "coordinates": [
+          2199,
+          3854,
+          2268,
+          3927
+        ],
+        "text": "mom",
+        "script_language": "english"
+      },
+      "polygon_11": {
+        "coordinates": [
+          2272,
+          3878,
+          2347,
+          3924
+        ],
+        "text": "made",
+        "script_language": "english"
+      },
+      "polygon_12": {
+        "coordinates": [
+          2203,
+          3923,
+          2349,
+          3974
+        ],
+        "text": "11015",
+        "script_language": "gujarati"
+      }
+    }
+  },
+  "IMG_50": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          353,
+          1138,
+          627,
+          1247
+        ],
+        "text": "ਨਾਏਕ",
+        "script_language": "punjabi"
+      },
+      "polygon_1": {
+        "coordinates": [
+          678,
+          1179,
+          929,
+          1273
+        ],
+        "text": "நளீம",
+        "script_language": "tamil"
+      },
+      "polygon_2": {
+        "coordinates": [
+          978,
+          1217,
+          1055,
+          1282
+        ],
+        "text": "",
+        "script_language": "english"
+      },
+      "polygon_3": {
+        "coordinates": [
+          1076,
+          1224,
+          1210,
+          1296
+        ],
+        "text": "নং৫",
+        "script_language": "assamese"
+      },
+      "polygon_4": {
+        "coordinates": [
+          1480,
+          1288,
+          2134,
+          1400
+        ],
+        "text": "government",
+        "script_language": "english"
+      },
+      "polygon_5": {
+        "coordinates": [
+          2166,
+          1340,
+          2275,
+          1415
+        ],
+        "text": "of",
+        "script_language": "english"
+      },
+      "polygon_6": {
+        "coordinates": [
+          2307,
+          1353,
+          2705,
+          1446
+        ],
+        "text": "manipur",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          3050,
+          1361,
+          3190,
+          1429
+        ],
+        "text": "estd",
+        "script_language": "english"
+      },
+      "polygon_8": {
+        "coordinates": [
+          3239,
+          1371,
+          3526,
+          1453
+        ],
+        "text": "28091980",
+        "script_language": "english"
+      },
+      "polygon_9": {
+        "coordinates": [
+          1442,
+          1436,
+          1581,
+          1600
+        ],
+        "text": "a",
+        "script_language": "english"
+      },
+      "polygon_10": {
+        "coordinates": [
+          1798,
+          1414,
+          1989,
+          1634
+        ],
+        "text": "m",
+        "script_language": "english"
+      },
+      "polygon_11": {
+        "coordinates": [
+          2194,
+          1450,
+          2318,
+          1639
+        ],
+        "text": "ભય",
+        "script_language": "gujarati"
+      },
+      "polygon_12": {
+        "coordinates": [
+          2026,
+          1467,
+          2168,
+          1638
+        ],
+        "text": "a",
+        "script_language": "english"
+      },
+      "polygon_13": {
+        "coordinates": [
+          2643,
+          1478,
+          2953,
+          1684
+        ],
+        "text": "ભ",
+        "script_language": "gujarati"
+      },
+      "polygon_14": {
+        "coordinates": [
+          3082,
+          1513,
+          3577,
+          1717
+        ],
+        "text": "lege",
+        "script_language": "english"
+      },
+      "polygon_15": {
+        "coordinates": [
+          1039,
+          1636,
+          1374,
+          1744
+        ],
+        "text": "naac",
+        "script_language": "english"
+      },
+      "polygon_16": {
+        "coordinates": [
+          1454,
+          1654,
+          2179,
+          1777
+        ],
+        "text": "accredited",
+        "script_language": "english"
+      },
+      "polygon_17": {
+        "coordinates": [
+          2246,
+          1696,
+          2700,
+          1803
+        ],
+        "text": "bgrade",
+        "script_language": "english"
+      },
+      "polygon_18": {
+        "coordinates": [
+          2760,
+          1724,
+          3204,
+          1828
+        ],
+        "text": "college",
+        "script_language": "english"
+      },
+      "polygon_19": {
+        "coordinates": [
+          1567,
+          1784,
+          1804,
+          1860
+        ],
+        "text": "oinam",
+        "script_language": "english"
+      },
+      "polygon_20": {
+        "coordinates": [
+          1844,
+          1800,
+          2230,
+          1872
+        ],
+        "text": "bishnupur",
+        "script_language": "english"
+      },
+      "polygon_21": {
+        "coordinates": [
+          2265,
+          1816,
+          2547,
+          1885
+        ],
+        "text": "district",
+        "script_language": "english"
+      },
+      "polygon_22": {
+        "coordinates": [
+          2606,
+          1832,
+          2805,
+          1898
+        ],
+        "text": "795134",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_44": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          1051,
+          1636,
+          1839,
+          1806
+        ],
+        "text": "குலவராஜர்கள்",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          806,
+          1651,
+          1006,
+          1758
+        ],
+        "text": "সংক",
+        "script_language": "bengali"
+      },
+      "polygon_2": {
+        "coordinates": [
+          823,
+          1882,
+          2717,
+          2152
+        ],
+        "text": "bhethenterprises",
+        "script_language": "english"
+      },
+      "polygon_3": {
+        "coordinates": [
+          813,
+          2193,
+          1247,
+          2344
+        ],
+        "text": "agro",
+        "script_language": "english"
+      },
+      "polygon_4": {
+        "coordinates": [
+          1291,
+          2206,
+          1612,
+          2352
+        ],
+        "text": "hub",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_40": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          726,
+          212,
+          846,
+          244
+        ],
+        "text": "actogen",
+        "script_language": "english"
+      },
+      "polygon_1": {
+        "coordinates": [
+          892,
+          216,
+          1012,
+          249
+        ],
+        "text": "lactogen",
+        "script_language": "english"
+      },
+      "polygon_2": {
+        "coordinates": [
+          755,
+          240,
+          798,
+          260
+        ],
+        "text": "pro",
+        "script_language": "english"
+      },
+      "polygon_3": {
+        "coordinates": [
+          924,
+          244,
+          968,
+          263
+        ],
+        "text": "280",
+        "script_language": "gujarati"
+      },
+      "polygon_4": {
+        "coordinates": [
+          2006,
+          1510,
+          2852,
+          1747
+        ],
+        "text": "50ਾਸਕਾਪੀ",
+        "script_language": "punjabi"
+      },
+      "polygon_5": {
+        "coordinates": [
+          1235,
+          1558,
+          1507,
+          1734
+        ],
+        "text": "पा",
+        "script_language": "hindi"
+      },
+      "polygon_6": {
+        "coordinates": [
+          1529,
+          1556,
+          1850,
+          1739
+        ],
+        "text": "",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          835,
+          2356,
+          1308,
+          2461
+        ],
+        "text": "nambol",
+        "script_language": "english"
+      },
+      "polygon_8": {
+        "coordinates": [
+          1343,
+          2354,
+          1992,
+          2502
+        ],
+        "text": "thongkha",
+        "script_language": "english"
+      },
+      "polygon_9": {
+        "coordinates": [
+          2041,
+          2360,
+          2613,
+          2507
+        ],
+        "text": "mongjing",
+        "script_language": "english"
+      },
+      "polygon_10": {
+        "coordinates": [
+          139,
+          3063,
+          303,
+          3143
+        ],
+        "text": "mn01",
+        "script_language": "english"
+      },
+      "polygon_11": {
+        "coordinates": [
+          72,
+          3148,
+          110,
+          3176
+        ],
+        "text": "ind",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_41": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          982,
+          1190,
+          2303,
+          1421
+        ],
+        "text": "சாலஙிகளிலஊஊஊ",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          397,
+          1702,
+          648,
+          1816
+        ],
+        "text": "tdc",
+        "script_language": "english"
+      },
+      "polygon_2": {
+        "coordinates": [
+          2407,
+          1934,
+          2728,
+          2142
+        ],
+        "text": "ર૯",
+        "script_language": "gujarati"
+      },
+      "polygon_3": {
+        "coordinates": [
+          1847,
+          1946,
+          2249,
+          2160
+        ],
+        "text": "૧",
+        "script_language": "gujarati"
+      },
+      "polygon_4": {
+        "coordinates": [
+          435,
+          1953,
+          1828,
+          2209
+        ],
+        "text": "diagnostic",
+        "script_language": "english"
+      },
+      "polygon_5": {
+        "coordinates": [
+          1750,
+          2238,
+          2332,
+          2377
+        ],
+        "text": "795134",
+        "script_language": "english"
+      },
+      "polygon_6": {
+        "coordinates": [
+          1260,
+          2253,
+          1751,
+          2411
+        ],
+        "text": "manipur",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          728,
+          2260,
+          1212,
+          2408
+        ],
+        "text": "nambol",
+        "script_language": "english"
+      },
+      "polygon_8": {
+        "coordinates": [
+          1160,
+          2448,
+          2381,
+          2592
+        ],
+        "text": "mnhcrno127dc2014",
+        "script_language": "english"
+      },
+      "polygon_9": {
+        "coordinates": [
+          961,
+          2475,
+          1120,
+          2595
+        ],
+        "text": "no",
+        "script_language": "english"
+      },
+      "polygon_10": {
+        "coordinates": [
+          680,
+          2473,
+          920,
+          2632
+        ],
+        "text": "regd",
+        "script_language": "english"
+      },
+      "polygon_11": {
+        "coordinates": [
+          879,
+          2652,
+          2406,
+          2828
+        ],
+        "text": "வயில்",
+        "script_language": "tamil"
+      },
+      "polygon_12": {
+        "coordinates": [
+          429,
+          2671,
+          827,
+          2808
+        ],
+        "text": "email",
+        "script_language": "english"
+      },
+      "polygon_13": {
+        "coordinates": [
+          2431,
+          2672,
+          2691,
+          2787
+        ],
+        "text": "com",
+        "script_language": "english"
+      },
+      "polygon_14": {
+        "coordinates": [
+          1403,
+          2883,
+          2772,
+          2986
+        ],
+        "text": "૧૦૧૭",
+        "script_language": "gujarati"
+      },
+      "polygon_15": {
+        "coordinates": [
+          1131,
+          2903,
+          1384,
+          2992
+        ],
+        "text": "details",
+        "script_language": "english"
+      },
+      "polygon_16": {
+        "coordinates": [
+          411,
+          2904,
+          534,
+          2994
+        ],
+        "text": "pliz",
+        "script_language": "english"
+      },
+      "polygon_17": {
+        "coordinates": [
+          824,
+          2905,
+          925,
+          2997
+        ],
+        "text": "ર",
+        "script_language": "gujarati"
+      },
+      "polygon_18": {
+        "coordinates": [
+          548,
+          2906,
+          808,
+          2994
+        ],
+        "text": "வேட்டை",
+        "script_language": "tamil"
+      },
+      "polygon_19": {
+        "coordinates": [
+          943,
+          2908,
+          1111,
+          3001
+        ],
+        "text": "more",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_43": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          2532,
+          142,
+          2786,
+          182
+        ],
+        "text": "iookeey",
+        "script_language": "english"
+      },
+      "polygon_1": {
+        "coordinates": [
+          2437,
+          148,
+          2513,
+          185
+        ],
+        "text": "ਟਇ",
+        "script_language": "punjabi"
+      },
+      "polygon_2": {
+        "coordinates": [
+          2193,
+          216,
+          2357,
+          420
+        ],
+        "text": "সমিতি",
+        "script_language": "assamese"
+      },
+      "polygon_3": {
+        "coordinates": [
+          1663,
+          1691,
+          1994,
+          1787
+        ],
+        "text": "haca",
+        "script_language": "english"
+      },
+      "polygon_4": {
+        "coordinates": [
+          1519,
+          1714,
+          1625,
+          1790
+        ],
+        "text": "ரஂஜந",
+        "script_language": "tamil"
+      },
+      "polygon_5": {
+        "coordinates": [
+          1320,
+          1719,
+          1472,
+          1797
+        ],
+        "text": " ",
+        "script_language": "bengali"
+      },
+      "polygon_6": {
+        "coordinates": [
+          2109,
+          2346,
+          2373,
+          2419
+        ],
+        "text": "795134",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          1689,
+          2355,
+          2035,
+          2442
+        ],
+        "text": "mongjing",
+        "script_language": "english"
+      },
+      "polygon_8": {
+        "coordinates": [
+          1271,
+          2361,
+          1664,
+          2453
+        ],
+        "text": "thongkha",
+        "script_language": "english"
+      },
+      "polygon_9": {
+        "coordinates": [
+          972,
+          2370,
+          1253,
+          2440
+        ],
+        "text": "nambol",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_42": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          2803,
+          572,
+          2982,
+          644
+        ],
+        "text": "oltr",
+        "script_language": "english"
+      },
+      "polygon_1": {
+        "coordinates": [
+          2649,
+          752,
+          2718,
+          780
+        ],
+        "text": "leima",
+        "script_language": "english"
+      },
+      "polygon_2": {
+        "coordinates": [
+          2442,
+          760,
+          2616,
+          823
+        ],
+        "text": "ieima",
+        "script_language": "english"
+      },
+      "polygon_3": {
+        "coordinates": [
+          2324,
+          802,
+          2379,
+          834
+        ],
+        "text": "leima",
+        "script_language": "english"
+      },
+      "polygon_4": {
+        "coordinates": [
+          2191,
+          821,
+          2302,
+          899
+        ],
+        "text": "ieima",
+        "script_language": "english"
+      },
+      "polygon_5": {
+        "coordinates": [
+          976,
+          1317,
+          1789,
+          1567
+        ],
+        "text": " ",
+        "script_language": "bengali"
+      },
+      "polygon_6": {
+        "coordinates": [
+          0,
+          1346,
+          82,
+          1392
+        ],
+        "text": "20",
+        "script_language": "malayalam"
+      },
+      "polygon_7": {
+        "coordinates": [
+          1804,
+          1503,
+          2346,
+          1719
+        ],
+        "text": "ডেসি রে",
+        "script_language": "bengali"
+      },
+      "polygon_8": {
+        "coordinates": [
+          963,
+          1544,
+          1006,
+          1618
+        ],
+        "text": "0",
+        "script_language": "gujarati"
+      },
+      "polygon_9": {
+        "coordinates": [
+          615,
+          1661,
+          699,
+          1704
+        ],
+        "text": "વાખાનું",
+        "script_language": "gujarati"
+      },
+      "polygon_10": {
+        "coordinates": [
+          1140,
+          1750,
+          1361,
+          1963
+        ],
+        "text": "n",
+        "script_language": "english"
+      },
+      "polygon_11": {
+        "coordinates": [
+          2101,
+          1780,
+          2242,
+          2045
+        ],
+        "text": "પોલીસ",
+        "script_language": "gujarati"
+      },
+      "polygon_12": {
+        "coordinates": [
+          317,
+          1849,
+          1024,
+          2093
+        ],
+        "text": "variety",
+        "script_language": "english"
+      },
+      "polygon_13": {
+        "coordinates": [
+          2772,
+          1916,
+          2806,
+          2030
+        ],
+        "text": "જ0",
+        "script_language": "gujarati"
+      },
+      "polygon_14": {
+        "coordinates": [
+          1054,
+          1970,
+          1580,
+          2186
+        ],
+        "text": "ரோமாட்",
+        "script_language": "tamil"
+      },
+      "polygon_15": {
+        "coordinates": [
+          1776,
+          2089,
+          2240,
+          2288
+        ],
+        "text": "nambol",
+        "script_language": "english"
+      },
+      "polygon_16": {
+        "coordinates": [
+          2261,
+          2172,
+          2812,
+          2373
+        ],
+        "text": "ரமாயோடி",
+        "script_language": "tamil"
+      }
+    }
+  },
+  "IMG_31": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          2331,
+          1788,
+          2538,
+          1872
+        ],
+        "text": "ਸਥਾ",
+        "script_language": "punjabi"
+      },
+      "polygon_1": {
+        "coordinates": [
+          2590,
+          1784,
+          2752,
+          1913
+        ],
+        "text": "ਠਟੂ",
+        "script_language": "punjabi"
+      },
+      "polygon_2": {
+        "coordinates": [
+          1092,
+          1847,
+          1712,
+          2075
+        ],
+        "text": "blue",
+        "script_language": "english"
+      },
+      "polygon_3": {
+        "coordinates": [
+          2029,
+          2071,
+          2051,
+          2145
+        ],
+        "text": "૧",
+        "script_language": "gujarati"
+      },
+      "polygon_4": {
+        "coordinates": [
+          2475,
+          2072,
+          2684,
+          2129
+        ],
+        "text": "steam",
+        "script_language": "english"
+      },
+      "polygon_5": {
+        "coordinates": [
+          2706,
+          2071,
+          2838,
+          2127
+        ],
+        "text": "iron",
+        "script_language": "english"
+      },
+      "polygon_6": {
+        "coordinates": [
+          2214,
+          2070,
+          2398,
+          2130
+        ],
+        "text": "clean",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          1728,
+          2071,
+          1998,
+          2146
+        ],
+        "text": "laundry",
+        "script_language": "english"
+      },
+      "polygon_8": {
+        "coordinates": [
+          2079,
+          2074,
+          2194,
+          2144
+        ],
+        "text": "dry",
+        "script_language": "english"
+      },
+      "polygon_9": {
+        "coordinates": [
+          2419,
+          2163,
+          2850,
+          2216
+        ],
+        "text": "wwwmrbluein",
+        "script_language": "english"
+      },
+      "polygon_10": {
+        "coordinates": [
+          2110,
+          2167,
+          2275,
+          2215
+        ],
+        "text": "00059",
+        "script_language": "english"
+      },
+      "polygon_11": {
+        "coordinates": [
+          1923,
+          2169,
+          2089,
+          2217
+        ],
+        "text": "95559",
+        "script_language": "english"
+      },
+      "polygon_12": {
+        "coordinates": [
+          1810,
+          2171,
+          1908,
+          2217
+        ],
+        "text": "91",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_25": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          367,
+          262,
+          508,
+          300
+        ],
+        "text": "ডিব্ৰুগড়",
+        "script_language": "assamese"
+      },
+      "polygon_1": {
+        "coordinates": [
+          366,
+          299,
+          508,
+          340
+        ],
+        "text": "डिब्रुगढ़",
+        "script_language": "hindi"
+      },
+      "polygon_2": {
+        "coordinates": [
+          351,
+          343,
+          525,
+          370
+        ],
+        "text": "oibrugarh",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_24": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          1314,
+          1670,
+          1646,
+          1787
+        ],
+        "text": "stra",
+        "script_language": "english"
+      },
+      "polygon_1": {
+        "coordinates": [
+          511,
+          1675,
+          808,
+          1769
+        ],
+        "text": "motch",
+        "script_language": "english"
+      },
+      "polygon_2": {
+        "coordinates": [
+          869,
+          1685,
+          1260,
+          1793
+        ],
+        "text": " ",
+        "script_language": "bengali"
+      },
+      "polygon_3": {
+        "coordinates": [
+          1700,
+          1698,
+          2230,
+          1798
+        ],
+        "text": "mhcra",
+        "script_language": "english"
+      },
+      "polygon_4": {
+        "coordinates": [
+          2281,
+          1714,
+          2552,
+          1822
+        ],
+        "text": "3",
+        "script_language": "english"
+      },
+      "polygon_5": {
+        "coordinates": [
+          35,
+          1794,
+          281,
+          1996
+        ],
+        "text": "st",
+        "script_language": "english"
+      },
+      "polygon_6": {
+        "coordinates": [
+          327,
+          1804,
+          968,
+          2004
+        ],
+        "text": "stephen",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          1029,
+          1821,
+          1557,
+          2015
+        ],
+        "text": "higher",
+        "script_language": "english"
+      },
+      "polygon_8": {
+        "coordinates": [
+          1610,
+          1833,
+          2386,
+          2024
+        ],
+        "text": "secondary",
+        "script_language": "english"
+      },
+      "polygon_9": {
+        "coordinates": [
+          2440,
+          1845,
+          2969,
+          2034
+        ],
+        "text": "school",
+        "script_language": "english"
+      },
+      "polygon_10": {
+        "coordinates": [
+          262,
+          2054,
+          978,
+          2135
+        ],
+        "text": "hiyangthang",
+        "script_language": "english"
+      },
+      "polygon_11": {
+        "coordinates": [
+          1013,
+          2071,
+          1430,
+          2141
+        ],
+        "text": "mamang",
+        "script_language": "english"
+      },
+      "polygon_12": {
+        "coordinates": [
+          1463,
+          2074,
+          1795,
+          2159
+        ],
+        "text": "leikai",
+        "script_language": "english"
+      },
+      "polygon_13": {
+        "coordinates": [
+          1829,
+          2080,
+          2168,
+          2148
+        ],
+        "text": "imphal",
+        "script_language": "english"
+      },
+      "polygon_14": {
+        "coordinates": [
+          2195,
+          2083,
+          2441,
+          2150
+        ],
+        "text": "west",
+        "script_language": "english"
+      },
+      "polygon_15": {
+        "coordinates": [
+          2525,
+          2086,
+          2836,
+          2154
+        ],
+        "text": "795009",
+        "script_language": "english"
+      },
+      "polygon_16": {
+        "coordinates": [
+          557,
+          2229,
+          946,
+          2304
+        ],
+        "text": "recognised",
+        "script_language": "english"
+      },
+      "polygon_17": {
+        "coordinates": [
+          968,
+          2236,
+          1053,
+          2306
+        ],
+        "text": "by",
+        "script_language": "english"
+      },
+      "polygon_18": {
+        "coordinates": [
+          1071,
+          2235,
+          1357,
+          2297
+        ],
+        "text": "cohsem",
+        "script_language": "english"
+      },
+      "polygon_19": {
+        "coordinates": [
+          1378,
+          2240,
+          1524,
+          2298
+        ],
+        "text": "vide",
+        "script_language": "english"
+      },
+      "polygon_20": {
+        "coordinates": [
+          1543,
+          2240,
+          1724,
+          2299
+        ],
+        "text": "order",
+        "script_language": "english"
+      },
+      "polygon_21": {
+        "coordinates": [
+          1741,
+          2243,
+          1847,
+          2300
+        ],
+        "text": "no",
+        "script_language": "english"
+      },
+      "polygon_22": {
+        "coordinates": [
+          1867,
+          2242,
+          2237,
+          2303
+        ],
+        "text": "19696hsc",
+        "script_language": "english"
+      },
+      "polygon_23": {
+        "coordinates": [
+          2257,
+          2244,
+          2396,
+          2313
+        ],
+        "text": "vol",
+        "script_language": "english"
+      },
+      "polygon_24": {
+        "coordinates": [
+          2413,
+          2245,
+          2524,
+          2315
+        ],
+        "text": "viii",
+        "script_language": "english"
+      },
+      "polygon_25": {
+        "coordinates": [
+          1776,
+          2864,
+          2070,
+          3004
+        ],
+        "text": "१११",
+        "script_language": "marathi"
+      }
+    }
+  },
+  "IMG_30": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          1632,
+          1698,
+          1968,
+          1807
+        ],
+        "text": "চডমাঈ",
+        "script_language": "bengali"
+      },
+      "polygon_1": {
+        "coordinates": [
+          1408,
+          1700,
+          1596,
+          1800
+        ],
+        "text": "ਗਰਂਹ   ",
+        "script_language": "punjabi"
+      },
+      "polygon_2": {
+        "coordinates": [
+          804,
+          1711,
+          1070,
+          1799
+        ],
+        "text": "లూ౪",
+        "script_language": "telugu"
+      },
+      "polygon_3": {
+        "coordinates": [
+          1111,
+          1713,
+          1370,
+          1797
+        ],
+        "text": "8m",
+        "script_language": "english"
+      },
+      "polygon_4": {
+        "coordinates": [
+          963,
+          1835,
+          1335,
+          1965
+        ],
+        "text": "भारतीय",
+        "script_language": "hindi"
+      },
+      "polygon_5": {
+        "coordinates": [
+          1353,
+          1839,
+          1572,
+          1968
+        ],
+        "text": "स्‍टेट",
+        "script_language": "hindi"
+      },
+      "polygon_6": {
+        "coordinates": [
+          1591,
+          1842,
+          1798,
+          1981
+        ],
+        "text": "बैंक",
+        "script_language": "hindi"
+      },
+      "polygon_7": {
+        "coordinates": [
+          740,
+          2011,
+          1055,
+          2116
+        ],
+        "text": "state",
+        "script_language": "english"
+      },
+      "polygon_8": {
+        "coordinates": [
+          1094,
+          2016,
+          1427,
+          2121
+        ],
+        "text": "bank",
+        "script_language": "english"
+      },
+      "polygon_9": {
+        "coordinates": [
+          1463,
+          2022,
+          1630,
+          2126
+        ],
+        "text": "of",
+        "script_language": "english"
+      },
+      "polygon_10": {
+        "coordinates": [
+          1668,
+          2025,
+          2008,
+          2136
+        ],
+        "text": "india",
+        "script_language": "english"
+      },
+      "polygon_11": {
+        "coordinates": [
+          932,
+          2245,
+          1358,
+          2335
+        ],
+        "text": "nambol",
+        "script_language": "english"
+      },
+      "polygon_12": {
+        "coordinates": [
+          1391,
+          2252,
+          1803,
+          2343
+        ],
+        "text": "branch",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_26": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          993,
+          1829,
+          1223,
+          1919
+        ],
+        "text": "ஸ்ரீ",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          715,
+          1832,
+          974,
+          1917
+        ],
+        "text": "இளைத்தி",
+        "script_language": "tamil"
+      },
+      "polygon_2": {
+        "coordinates": [
+          1678,
+          1840,
+          1871,
+          1931
+        ],
+        "text": "க்ஷண",
+        "script_language": "tamil"
+      },
+      "polygon_3": {
+        "coordinates": [
+          1461,
+          1847,
+          1659,
+          1934
+        ],
+        "text": "றனிள",
+        "script_language": "tamil"
+      },
+      "polygon_4": {
+        "coordinates": [
+          1243,
+          1857,
+          1439,
+          1924
+        ],
+        "text": "ாளன",
+        "script_language": "tamil"
+      },
+      "polygon_5": {
+        "coordinates": [
+          2099,
+          1875,
+          2485,
+          1935
+        ],
+        "text": "7005278879",
+        "script_language": "english"
+      },
+      "polygon_6": {
+        "coordinates": [
+          713,
+          1941,
+          1101,
+          2095
+        ],
+        "text": "gelio",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          1498,
+          1954,
+          1594,
+          2102
+        ],
+        "text": "8",
+        "script_language": "gujarati"
+      },
+      "polygon_8": {
+        "coordinates": [
+          1142,
+          1950,
+          1456,
+          2099
+        ],
+        "text": "iron",
+        "script_language": "english"
+      },
+      "polygon_9": {
+        "coordinates": [
+          1631,
+          1956,
+          2027,
+          2106
+        ],
+        "text": "steel",
+        "script_language": "english"
+      },
+      "polygon_10": {
+        "coordinates": [
+          2062,
+          1964,
+          2442,
+          2112
+        ],
+        "text": "work",
+        "script_language": "english"
+      },
+      "polygon_11": {
+        "coordinates": [
+          971,
+          2126,
+          1156,
+          2195
+        ],
+        "text": "old",
+        "script_language": "english"
+      },
+      "polygon_12": {
+        "coordinates": [
+          1179,
+          2129,
+          1373,
+          2198
+        ],
+        "text": "uco",
+        "script_language": "english"
+      },
+      "polygon_13": {
+        "coordinates": [
+          1396,
+          2133,
+          1665,
+          2213
+        ],
+        "text": "bank",
+        "script_language": "english"
+      },
+      "polygon_14": {
+        "coordinates": [
+          1691,
+          2137,
+          2196,
+          2207
+        ],
+        "text": "bishnupur",
+        "script_language": "english"
+      },
+      "polygon_15": {
+        "coordinates": [
+          337,
+          3367,
+          392,
+          3386
+        ],
+        "text": "spring",
+        "script_language": "english"
+      },
+      "polygon_16": {
+        "coordinates": [
+          223,
+          3969,
+          307,
+          4014
+        ],
+        "text": "brasin",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_32": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          2093,
+          1034,
+          2343,
+          1196
+        ],
+        "text": "ਦਸਣਏ",
+        "script_language": "punjabi"
+      },
+      "polygon_1": {
+        "coordinates": [
+          1696,
+          1148,
+          1990,
+          1310
+        ],
+        "text": "তেংভে অপ্রা ",
+        "script_language": "bengali"
+      },
+      "polygon_2": {
+        "coordinates": [
+          2150,
+          1207,
+          2552,
+          1557
+        ],
+        "text": "nambol",
+        "script_language": "english"
+      },
+      "polygon_3": {
+        "coordinates": [
+          2662,
+          1234,
+          2869,
+          1346
+        ],
+        "text": "health",
+        "script_language": "english"
+      },
+      "polygon_4": {
+        "coordinates": [
+          1471,
+          1237,
+          1672,
+          1377
+        ],
+        "text": " ",
+        "script_language": "bengali"
+      },
+      "polygon_5": {
+        "coordinates": [
+          1039,
+          1289,
+          1459,
+          1504
+        ],
+        "text": "कामाऊंड्याजनं",
+        "script_language": "marathi"
+      },
+      "polygon_6": {
+        "coordinates": [
+          2855,
+          1290,
+          2947,
+          1446
+        ],
+        "text": "mis",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          2495,
+          1328,
+          2706,
+          1725
+        ],
+        "text": "national",
+        "script_language": "english"
+      },
+      "polygon_8": {
+        "coordinates": [
+          869,
+          1320,
+          2114,
+          1910
+        ],
+        "text": "communityhealthcentre",
+        "script_language": "english"
+      },
+      "polygon_9": {
+        "coordinates": [
+          2893,
+          1444,
+          2957,
+          1638
+        ],
+        "text": "sion",
+        "script_language": "english"
+      },
+      "polygon_10": {
+        "coordinates": [
+          1860,
+          1634,
+          2417,
+          1971
+        ],
+        "text": "manipur",
+        "script_language": "english"
+      },
+      "polygon_11": {
+        "coordinates": [
+          1680,
+          1776,
+          1843,
+          2021
+        ],
+        "text": "of",
+        "script_language": "english"
+      },
+      "polygon_12": {
+        "coordinates": [
+          636,
+          1800,
+          794,
+          1926
+        ],
+        "text": "health",
+        "script_language": "english"
+      },
+      "polygon_13": {
+        "coordinates": [
+          900,
+          1827,
+          1664,
+          2220
+        ],
+        "text": "government",
+        "script_language": "english"
+      },
+      "polygon_14": {
+        "coordinates": [
+          537,
+          1866,
+          852,
+          2280
+        ],
+        "text": "વેન્ટર",
+        "script_language": "gujarati"
+      },
+      "polygon_15": {
+        "coordinates": [
+          2171,
+          1951,
+          2601,
+          2179
+        ],
+        "text": "district",
+        "script_language": "english"
+      },
+      "polygon_16": {
+        "coordinates": [
+          514,
+          2036,
+          573,
+          2244
+        ],
+        "text": "natic",
+        "script_language": "english"
+      },
+      "polygon_17": {
+        "coordinates": [
+          1663,
+          2060,
+          2153,
+          2297
+        ],
+        "text": "bishnupur",
+        "script_language": "english"
+      },
+      "polygon_18": {
+        "coordinates": [
+          1361,
+          2189,
+          1603,
+          2371
+        ],
+        "text": "795134",
+        "script_language": "english"
+      },
+      "polygon_19": {
+        "coordinates": [
+          1208,
+          2253,
+          1338,
+          2408
+        ],
+        "text": "no",
+        "script_language": "english"
+      },
+      "polygon_20": {
+        "coordinates": [
+          1061,
+          2289,
+          1199,
+          2439
+        ],
+        "text": "pin",
+        "script_language": "english"
+      },
+      "polygon_21": {
+        "coordinates": [
+          722,
+          2327,
+          1047,
+          2515
+        ],
+        "text": "nambol",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_33": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          278,
+          1408,
+          483,
+          1590
+        ],
+        "text": "health",
+        "script_language": "english"
+      },
+      "polygon_1": {
+        "coordinates": [
+          118,
+          1436,
+          280,
+          1740
+        ],
+        "text": "national",
+        "script_language": "english"
+      },
+      "polygon_2": {
+        "coordinates": [
+          555,
+          1487,
+          1289,
+          1801
+        ],
+        "text": "community",
+        "script_language": "english"
+      },
+      "polygon_3": {
+        "coordinates": [
+          417,
+          1535,
+          561,
+          1822
+        ],
+        "text": "mission",
+        "script_language": "english"
+      },
+      "polygon_4": {
+        "coordinates": [
+          1209,
+          1542,
+          1524,
+          1688
+        ],
+        "text": "ঘোকাদ্যুপ্যুতো সা ",
+        "script_language": "bengali"
+      },
+      "polygon_5": {
+        "coordinates": [
+          1537,
+          1629,
+          1684,
+          1725
+        ],
+        "text": "এতংবক্র",
+        "script_language": "bengali"
+      },
+      "polygon_6": {
+        "coordinates": [
+          1695,
+          1678,
+          1891,
+          1783
+        ],
+        "text": "৫১ংভেতশপ্রা",
+        "script_language": "bengali"
+      },
+      "polygon_7": {
+        "coordinates": [
+          1322,
+          1694,
+          1735,
+          1923
+        ],
+        "text": "health",
+        "script_language": "english"
+      },
+      "polygon_8": {
+        "coordinates": [
+          1950,
+          1738,
+          2111,
+          1841
+        ],
+        "text": "৫ কেষ্ট ব ",
+        "script_language": "bengali"
+      },
+      "polygon_9": {
+        "coordinates": [
+          808,
+          1772,
+          1696,
+          2080
+        ],
+        "text": "government",
+        "script_language": "english"
+      },
+      "polygon_10": {
+        "coordinates": [
+          1764,
+          1811,
+          2191,
+          2066
+        ],
+        "text": "centre",
+        "script_language": "english"
+      },
+      "polygon_11": {
+        "coordinates": [
+          656,
+          1906,
+          1071,
+          2085
+        ],
+        "text": "nambol",
+        "script_language": "english"
+      },
+      "polygon_12": {
+        "coordinates": [
+          2221,
+          1932,
+          2609,
+          2143
+        ],
+        "text": "nambol",
+        "script_language": "english"
+      },
+      "polygon_13": {
+        "coordinates": [
+          1737,
+          1991,
+          1894,
+          2121
+        ],
+        "text": "of",
+        "script_language": "english"
+      },
+      "polygon_14": {
+        "coordinates": [
+          1087,
+          2000,
+          1244,
+          2122
+        ],
+        "text": "pin",
+        "script_language": "english"
+      },
+      "polygon_15": {
+        "coordinates": [
+          1915,
+          2043,
+          2419,
+          2253
+        ],
+        "text": "manipur",
+        "script_language": "english"
+      },
+      "polygon_16": {
+        "coordinates": [
+          1258,
+          2038,
+          1403,
+          2157
+        ],
+        "text": "no",
+        "script_language": "english"
+      },
+      "polygon_17": {
+        "coordinates": [
+          2695,
+          2046,
+          2834,
+          2157
+        ],
+        "text": "health",
+        "script_language": "english"
+      },
+      "polygon_18": {
+        "coordinates": [
+          2612,
+          2070,
+          2737,
+          2332
+        ],
+        "text": " ",
+        "script_language": "malayalam"
+      },
+      "polygon_19": {
+        "coordinates": [
+          1427,
+          2077,
+          1677,
+          2212
+        ],
+        "text": "795134",
+        "script_language": "english"
+      },
+      "polygon_20": {
+        "coordinates": [
+          2740,
+          2138,
+          2905,
+          2376
+        ],
+        "text": "અમર",
+        "script_language": "gujarati"
+      },
+      "polygon_21": {
+        "coordinates": [
+          1731,
+          2148,
+          2176,
+          2329
+        ],
+        "text": "bishnupur",
+        "script_language": "english"
+      },
+      "polygon_22": {
+        "coordinates": [
+          2189,
+          2252,
+          2529,
+          2403
+        ],
+        "text": "district",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_27": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          1532,
+          2260,
+          1643,
+          2329
+        ],
+        "text": "39",
+        "script_language": "english"
+      },
+      "polygon_1": {
+        "coordinates": [
+          986,
+          2271,
+          1262,
+          2348
+        ],
+        "text": "வாங்களை",
+        "script_language": "tamil"
+      },
+      "polygon_2": {
+        "coordinates": [
+          1264,
+          2278,
+          1494,
+          2339
+        ],
+        "text": "ਨਾਹੁ",
+        "script_language": "punjabi"
+      },
+      "polygon_3": {
+        "coordinates": [
+          492,
+          2325,
+          2185,
+          2500
+        ],
+        "text": "yeireiyenshang",
+        "script_language": "english"
+      },
+      "polygon_4": {
+        "coordinates": [
+          1372,
+          2513,
+          1945,
+          2624
+        ],
+        "text": "center",
+        "script_language": "english"
+      },
+      "polygon_5": {
+        "coordinates": [
+          706,
+          2533,
+          1326,
+          2642
+        ],
+        "text": "chicken",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_23": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          1765,
+          1272,
+          1999,
+          1405
+        ],
+        "text": "ਰਾਸ",
+        "script_language": "punjabi"
+      },
+      "polygon_1": {
+        "coordinates": [
+          1094,
+          1540,
+          2186,
+          1713
+        ],
+        "text": "पाएएमएए एँ",
+        "script_language": "hindi"
+      },
+      "polygon_2": {
+        "coordinates": [
+          1547,
+          1735,
+          2305,
+          2012
+        ],
+        "text": "orive",
+        "script_language": "english"
+      },
+      "polygon_3": {
+        "coordinates": [
+          1499,
+          2030,
+          2289,
+          2306
+        ],
+        "text": "slow",
+        "script_language": "english"
+      },
+      "polygon_4": {
+        "coordinates": [
+          594,
+          2264,
+          716,
+          2490
+        ],
+        "text": "ਨਿਰਾ",
+        "script_language": "punjabi"
+      },
+      "polygon_5": {
+        "coordinates": [
+          1968,
+          2330,
+          2322,
+          2467
+        ],
+        "text": "school",
+        "script_language": "english"
+      },
+      "polygon_6": {
+        "coordinates": [
+          1753,
+          2345,
+          1947,
+          2473
+        ],
+        "text": "sec",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          1590,
+          2355,
+          1730,
+          2474
+        ],
+        "text": "hr",
+        "script_language": "english"
+      },
+      "polygon_8": {
+        "coordinates": [
+          1198,
+          2359,
+          1560,
+          2488
+        ],
+        "text": "stephen",
+        "script_language": "english"
+      },
+      "polygon_9": {
+        "coordinates": [
+          1049,
+          2371,
+          1178,
+          2493
+        ],
+        "text": "st",
+        "script_language": "english"
+      },
+      "polygon_10": {
+        "coordinates": [
+          2876,
+          2442,
+          3025,
+          2536
+        ],
+        "text": "sha",
+        "script_language": "english"
+      },
+      "polygon_11": {
+        "coordinates": [
+          2950,
+          2478,
+          3027,
+          2535
+        ],
+        "text": "గీరల",
+        "script_language": "telugu"
+      },
+      "polygon_12": {
+        "coordinates": [
+          1407,
+          2495,
+          1951,
+          2620
+        ],
+        "text": "hiyangthang",
+        "script_language": "english"
+      },
+      "polygon_13": {
+        "coordinates": [
+          2899,
+          2517,
+          2955,
+          2561
+        ],
+        "text": "ளோ",
+        "script_language": "tamil"
+      }
+    }
+  },
+  "IMG_37": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          709,
+          1461,
+          1055,
+          1589
+        ],
+        "text": "ஜுஈ",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          1108,
+          1472,
+          1338,
+          1600
+        ],
+        "text": "गाटी",
+        "script_language": "hindi"
+      },
+      "polygon_2": {
+        "coordinates": [
+          1391,
+          1491,
+          1736,
+          1619
+        ],
+        "text": "ஸுல",
+        "script_language": "tamil"
+      },
+      "polygon_3": {
+        "coordinates": [
+          1791,
+          1511,
+          2492,
+          1666
+        ],
+        "text": "ceppersticscocom",
+        "script_language": "english"
+      },
+      "polygon_4": {
+        "coordinates": [
+          940,
+          1694,
+          1129,
+          1844
+        ],
+        "text": "ભ",
+        "script_language": "gujarati"
+      },
+      "polygon_5": {
+        "coordinates": [
+          1274,
+          1730,
+          1567,
+          2051
+        ],
+        "text": "8",
+        "script_language": "gujarati"
+      },
+      "polygon_6": {
+        "coordinates": [
+          2353,
+          1754,
+          2625,
+          2023
+        ],
+        "text": "ભય",
+        "script_language": "gujarati"
+      }
+    }
+  },
+  "IMG_36": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          502,
+          2155,
+          779,
+          2329
+        ],
+        "text": "எரச்",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          2362,
+          2634,
+          2665,
+          2762
+        ],
+        "text": "4sanjenbam",
+        "script_language": "english"
+      },
+      "polygon_2": {
+        "coordinates": [
+          1981,
+          3702,
+          2167,
+          3988
+        ],
+        "text": "വികസനം",
+        "script_language": "malayalam"
+      }
+    }
+  },
+  "IMG_22": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          847,
+          1551,
+          1076,
+          1708
+        ],
+        "text": "கொண்டு",
+        "script_language": "tamil"
+      },
+      "polygon_1": {
+        "coordinates": [
+          857,
+          2111,
+          1091,
+          2255
+        ],
+        "text": "પર",
+        "script_language": "gujarati"
+      },
+      "polygon_2": {
+        "coordinates": [
+          858,
+          2287,
+          2284,
+          2434
+        ],
+        "text": "jtrader",
+        "script_language": "english"
+      },
+      "polygon_3": {
+        "coordinates": [
+          1759,
+          2544,
+          2441,
+          2750
+        ],
+        "text": "wayto",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_34": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          2618,
+          1064,
+          2713,
+          1136
+        ],
+        "text": "ਠੇਤਾ",
+        "script_language": "punjabi"
+      },
+      "polygon_1": {
+        "coordinates": [
+          1981,
+          1072,
+          2127,
+          1148
+        ],
+        "text": "১০ ব্লাম",
+        "script_language": "bengali"
+      },
+      "polygon_2": {
+        "coordinates": [
+          2151,
+          1090,
+          2298,
+          1142
+        ],
+        "text": "hoeo",
+        "script_language": "english"
+      },
+      "polygon_3": {
+        "coordinates": [
+          2317,
+          1090,
+          2444,
+          1141
+        ],
+        "text": "மஂட",
+        "script_language": "tamil"
+      },
+      "polygon_4": {
+        "coordinates": [
+          2464,
+          1088,
+          2601,
+          1145
+        ],
+        "text": "চেত",
+        "script_language": "bengali"
+      },
+      "polygon_5": {
+        "coordinates": [
+          2467,
+          1143,
+          2503,
+          1159
+        ],
+        "text": "ઉજ",
+        "script_language": "gujarati"
+      },
+      "polygon_6": {
+        "coordinates": [
+          2347,
+          1156,
+          2715,
+          1300
+        ],
+        "text": "bar",
+        "script_language": "english"
+      },
+      "polygon_7": {
+        "coordinates": [
+          1598,
+          1159,
+          2297,
+          1310
+        ],
+        "text": "juice",
+        "script_language": "english"
+      },
+      "polygon_8": {
+        "coordinates": [
+          1075,
+          1164,
+          1556,
+          1319
+        ],
+        "text": "cafe",
+        "script_language": "english"
+      },
+      "polygon_9": {
+        "coordinates": [
+          448,
+          1179,
+          1046,
+          1327
+        ],
+        "text": "town",
+        "script_language": "english"
+      },
+      "polygon_10": {
+        "coordinates": [
+          1636,
+          1323,
+          1839,
+          1358
+        ],
+        "text": "bazar",
+        "script_language": "english"
+      },
+      "polygon_11": {
+        "coordinates": [
+          1330,
+          1325,
+          1592,
+          1363
+        ],
+        "text": "nambol",
+        "script_language": "english"
+      },
+      "polygon_12": {
+        "coordinates": [
+          762,
+          2823,
+          948,
+          2896
+        ],
+        "text": "town",
+        "script_language": "english"
+      },
+      "polygon_13": {
+        "coordinates": [
+          796,
+          3022,
+          931,
+          3064
+        ],
+        "text": "cafe",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_20": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          1839,
+          1607,
+          2093,
+          1700
+        ],
+        "text": "ਸਟਰਿੰਗਾ",
+        "script_language": "punjabi"
+      },
+      "polygon_1": {
+        "coordinates": [
+          1381,
+          1621,
+          1568,
+          1699
+        ],
+        "text": "ਹਰਗਿੰਗ",
+        "script_language": "punjabi"
+      },
+      "polygon_2": {
+        "coordinates": [
+          1585,
+          1619,
+          1816,
+          1694
+        ],
+        "text": "জং৫১০ ",
+        "script_language": "assamese"
+      },
+      "polygon_3": {
+        "coordinates": [
+          1977,
+          1736,
+          2617,
+          1946
+        ],
+        "text": "clind",
+        "script_language": "english"
+      },
+      "polygon_4": {
+        "coordinates": [
+          780,
+          1754,
+          1972,
+          1968
+        ],
+        "text": "iddimdenta",
+        "script_language": "english"
+      },
+      "polygon_5": {
+        "coordinates": [
+          2458,
+          1965,
+          2567,
+          2049
+        ],
+        "text": "રા",
+        "script_language": "gujarati"
+      },
+      "polygon_6": {
+        "coordinates": [
+          2279,
+          1972,
+          2440,
+          2079
+        ],
+        "text": "૨૦",
+        "script_language": "gujarati"
+      },
+      "polygon_7": {
+        "coordinates": [
+          2144,
+          1978,
+          2266,
+          2063
+        ],
+        "text": "0",
+        "script_language": "gujarati"
+      },
+      "polygon_8": {
+        "coordinates": [
+          1094,
+          2101,
+          1328,
+          2157
+        ],
+        "text": "bazar",
+        "script_language": "english"
+      },
+      "polygon_9": {
+        "coordinates": [
+          792,
+          2110,
+          1077,
+          2168
+        ],
+        "text": "nambol",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_21": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          51,
+          1054,
+          1429,
+          1204
+        ],
+        "text": "ਨੱਟੀ੦੭੭ਸਟੀਗਰਬਾ",
+        "script_language": "punjabi"
+      },
+      "polygon_1": {
+        "coordinates": [
+          2461,
+          1098,
+          2928,
+          1200
+        ],
+        "text": "8089",
+        "script_language": "marathi"
+      },
+      "polygon_2": {
+        "coordinates": [
+          1499,
+          1102,
+          2402,
+          1205
+        ],
+        "text": "ਸੁਾਦੴ",
+        "script_language": "punjabi"
+      },
+      "polygon_3": {
+        "coordinates": [
+          738,
+          1224,
+          1504,
+          1516
+        ],
+        "text": "manipuri",
+        "script_language": "english"
+      },
+      "polygon_4": {
+        "coordinates": [
+          1551,
+          1242,
+          2959,
+          1515
+        ],
+        "text": "calendar2025",
+        "script_language": "english"
+      },
+      "polygon_5": {
+        "coordinates": [
+          53,
+          1248,
+          696,
+          1522
+        ],
+        "text": "english",
+        "script_language": "english"
+      }
+    }
+  },
+  "IMG_35": {
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          372,
+          666,
+          956,
+          1012
+        ],
+        "text": "vnov",
+        "script_language": "english"
+      },
+      "polygon_1": {
+        "coordinates": [
+          982,
+          849,
+          2792,
+          1499
+        ],
+        "text": "ativetutorial",
+        "script_language": "english"
+      },
+      "polygon_2": {
+        "coordinates": [
+          998,
+          1089,
+          1570,
+          1314
+        ],
+        "text": "চাউণ্যাণ্ড18",
+        "script_language": "bengali"
+      },
+      "polygon_3": {
+        "coordinates": [
+          1628,
+          1241,
+          1905,
+          1389
+        ],
+        "text": "১০১২১০৭",
+        "script_language": "bengali"
+      },
+      "polygon_4": {
+        "coordinates": [
+          1900,
+          1320,
+          2179,
+          1464
+        ],
+        "text": " ",
+        "script_language": "bengali"
+      },
+      "polygon_5": {
+        "coordinates": [
+          437,
+          1624,
+          922,
+          1818
+        ],
+        "text": " ",
+        "script_language": "bengali"
+      },
+      "polygon_6": {
+        "coordinates": [
+          975,
+          1722,
+          1311,
+          1884
+        ],
+        "text": "জঈ অঙঙ",
+        "script_language": "bengali"
+      },
+      "polygon_7": {
+        "coordinates": [
+          121,
+          1734,
+          2879,
+          2417
+        ],
+        "text": "ആഹാരസാധനങ്ങളുടെ",
+        "script_language": "malayalam"
+      },
+      "polygon_8": {
+        "coordinates": [
+          1363,
+          1811,
+          1888,
+          2011
+        ],
+        "text": "ਸਕ੍ਰਸਦੀਤਾਨਿਹਤ",
+        "script_language": "punjabi"
+      },
+      "polygon_9": {
+        "coordinates": [
+          1935,
+          1916,
+          2319,
+          2083
+        ],
+        "text": "மஂஜீ",
+        "script_language": "tamil"
+      },
+      "polygon_10": {
+        "coordinates": [
+          2390,
+          2017,
+          2667,
+          2150
+        ],
+        "text": " ",
+        "script_language": "bengali"
+      },
+      "polygon_11": {
+        "coordinates": [
+          2322,
+          2073,
+          2342,
+          2108
+        ],
+        "text": "૧",
+        "script_language": "gujarati"
+      },
+      "polygon_12": {
+        "coordinates": [
+          1248,
+          2273,
+          1943,
+          2560
+        ],
+        "text": "nambol",
+        "script_language": "english"
+      },
+      "polygon_13": {
+        "coordinates": [
+          969,
+          2478,
+          1134,
+          2574
+        ],
+        "text": "estd",
+        "script_language": "english"
+      },
+      "polygon_14": {
+        "coordinates": [
+          1211,
+          2519,
+          1401,
+          2617
+        ],
+        "text": "1996",
+        "script_language": "english"
+      },
+      "polygon_15": {
+        "coordinates": [
+          1440,
+          2554,
+          1522,
+          2637
+        ],
+        "text": "of",
+        "script_language": "english"
+      },
+      "polygon_16": {
+        "coordinates": [
+          1544,
+          2571,
+          1749,
+          2688
+        ],
+        "text": "regd",
+        "script_language": "english"
+      },
+      "polygon_17": {
+        "coordinates": [
+          1772,
+          2606,
+          1906,
+          2696
+        ],
+        "text": "no",
+        "script_language": "english"
+      },
+      "polygon_18": {
+        "coordinates": [
+          1926,
+          2630,
+          2261,
+          2746
+        ],
+        "text": "1801996",
+        "script_language": "english"
+      },
+      "polygon_19": {
+        "coordinates": [
+          2278,
+          3367,
+          2445,
+          3450
+        ],
+        "text": "૬૭૦",
+        "script_language": "gujarati"
+      },
+      "polygon_20": {
+        "coordinates": [
+          238,
+          3409,
+          471,
+          3646
+        ],
+        "text": "বা",
+        "script_language": "bengali"
+      }
+    }
+  }
+}
