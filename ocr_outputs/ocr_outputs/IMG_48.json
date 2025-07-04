@@ -1,0 +1,82 @@
+{
+  "polygon_0": {
+    "coordinates": [
+      2020,
+      1532,
+      2911,
+      1729
+    ],
+    "text": "journal",
+    "script_language": "english"
+  },
+  "polygon_1": {
+    "coordinates": [
+      1018,
+      1546,
+      1992,
+      1703
+    ],
+    "text": "monthly",
+    "script_language": "english"
+  },
+  "polygon_2": {
+    "coordinates": [
+      837,
+      1544,
+      975,
+      1696
+    ],
+    "text": "a",
+    "script_language": "english"
+  },
+  "polygon_3": {
+    "coordinates": [
+      176,
+      1900,
+      1266,
+      2261
+    ],
+    "text": "দীবটে",
+    "script_language": "assamese"
+  },
+  "polygon_4": {
+    "coordinates": [
+      2014,
+      1921,
+      2853,
+      2268
+    ],
+    "text": "লংজিল",
+    "script_language": "bengali"
+  },
+  "polygon_5": {
+    "coordinates": [
+      1317,
+      1985,
+      1954,
+      2282
+    ],
+    "text": "লংলা",
+    "script_language": "bengali"
+  },
+  "polygon_6": {
+    "coordinates": [
+      839,
+      2500,
+      1660,
+      2666
+    ],
+    "text": "june202",
+    "script_language": "english"
+  },
+  "polygon_7": {
+    "coordinates": [
+      2226,
+      2499,
+      2892,
+      2734
+    ],
+    "text": "rs50",
+    "script_language": "english"
+  }
+}

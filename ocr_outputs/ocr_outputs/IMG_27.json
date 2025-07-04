@@ -1,0 +1,62 @@
+{
+  "polygon_0": {
+    "coordinates": [
+      1532,
+      2260,
+      1643,
+      2329
+    ],
+    "text": "39",
+    "script_language": "english"
+  },
+  "polygon_1": {
+    "coordinates": [
+      986,
+      2271,
+      1262,
+      2348
+    ],
+    "text": "வாங்களை",
+    "script_language": "tamil"
+  },
+  "polygon_2": {
+    "coordinates": [
+      1264,
+      2278,
+      1494,
+      2339
+    ],
+    "text": "ਨਾਹੁ",
+    "script_language": "punjabi"
+  },
+  "polygon_3": {
+    "coordinates": [
+      492,
+      2325,
+      2185,
+      2500
+    ],
+    "text": "yeireiyenshang",
+    "script_language": "english"
+  },
+  "polygon_4": {
+    "coordinates": [
+      1372,
+      2513,
+      1945,
+      2624
+    ],
+    "text": "center",
+    "script_language": "english"
+  },
+  "polygon_5": {
+    "coordinates": [
+      706,
+      2533,
+      1326,
+      2642
+    ],
+    "text": "chicken",
+    "script_language": "english"
+  }
+}

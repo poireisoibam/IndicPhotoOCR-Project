@@ -1,0 +1,62 @@
+{
+  "polygon_0": {
+    "coordinates": [
+      51,
+      1054,
+      1429,
+      1204
+    ],
+    "text": "ਨੱਟੀ੦੭੭ਸਟੀਗਰਬਾ",
+    "script_language": "punjabi"
+  },
+  "polygon_1": {
+    "coordinates": [
+      2461,
+      1098,
+      2928,
+      1200
+    ],
+    "text": "8089",
+    "script_language": "marathi"
+  },
+  "polygon_2": {
+    "coordinates": [
+      1499,
+      1102,
+      2402,
+      1205
+    ],
+    "text": "ਸੁਾਦੴ",
+    "script_language": "punjabi"
+  },
+  "polygon_3": {
+    "coordinates": [
+      738,
+      1224,
+      1504,
+      1516
+    ],
+    "text": "manipuri",
+    "script_language": "english"
+  },
+  "polygon_4": {
+    "coordinates": [
+      1551,
+      1242,
+      2959,
+      1515
+    ],
+    "text": "calendar2025",
+    "script_language": "english"
+  },
+  "polygon_5": {
+    "coordinates": [
+      53,
+      1248,
+      696,
+      1522
+    ],
+    "text": "english",
+    "script_language": "english"
+  }
+}

@@ -1,0 +1,152 @@
+{
+  "polygon_0": {
+    "coordinates": [
+      1894,
+      1278,
+      2186,
+      1372
+    ],
+    "text": "ঈনাঢ়ি",
+    "script_language": "assamese"
+  },
+  "polygon_1": {
+    "coordinates": [
+      2245,
+      1285,
+      2583,
+      1360
+    ],
+    "text": "ஙணகளண",
+    "script_language": "tamil"
+  },
+  "polygon_2": {
+    "coordinates": [
+      1923,
+      1394,
+      2837,
+      1621
+    ],
+    "text": "dalmia",
+    "script_language": "english"
+  },
+  "polygon_3": {
+    "coordinates": [
+      102,
+      1552,
+      1415,
+      1775
+    ],
+    "text": "publichall",
+    "script_language": "english"
+  },
+  "polygon_4": {
+    "coordinates": [
+      2217,
+      1626,
+      2824,
+      1755
+    ],
+    "text": "cement",
+    "script_language": "english"
+  },
+  "polygon_5": {
+    "coordinates": [
+      2420,
+      1831,
+      2825,
+      1921
+    ],
+    "text": "today",
+    "script_language": "english"
+  },
+  "polygon_6": {
+    "coordinates": [
+      1869,
+      1840,
+      2360,
+      1933
+    ],
+    "text": "future",
+    "script_language": "english"
+  },
+  "polygon_7": {
+    "coordinates": [
+      1759,
+      3170,
+      1932,
+      3197
+    ],
+    "text": "ச௺சியங்களை",
+    "script_language": "tamil"
+  },
+  "polygon_8": {
+    "coordinates": [
+      1936,
+      3174,
+      2011,
+      3198
+    ],
+    "text": "ടൗൺ",
+    "script_language": "malayalam"
+  },
+  "polygon_9": {
+    "coordinates": [
+      1748,
+      3197,
+      1947,
+      3220
+    ],
+    "text": "ouriyamvariet",
+    "script_language": "english"
+  },
+  "polygon_10": {
+    "coordinates": [
+      1949,
+      3199,
+      2017,
+      3222
+    ],
+    "text": "store",
+    "script_language": "english"
+  },
+  "polygon_11": {
+    "coordinates": [
+      1763,
+      3222,
+      1925,
+      3243
+    ],
+    "text": "nambolsabal",
+    "script_language": "english"
+  },
+  "polygon_12": {
+    "coordinates": [
+      1929,
+      3222,
+      2006,
+      3244
+    ],
+    "text": "leikai",
+    "script_language": "english"
+  },
+  "polygon_13": {
+    "coordinates": [
+      1779,
+      3369,
+      1941,
+      3395
+    ],
+    "text": "ritchenhems",
+    "script_language": "english"
+  },
+  "polygon_14": {
+    "coordinates": [
+      610,
+      3616,
+      1215,
+      3770
+    ],
+    "text": "ಮಾರ್",
+    "script_language": "kannada"
+  }
+}

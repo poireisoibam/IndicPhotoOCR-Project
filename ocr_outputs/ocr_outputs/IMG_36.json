@@ -1,0 +1,32 @@
+{
+  "polygon_0": {
+    "coordinates": [
+      502,
+      2155,
+      779,
+      2329
+    ],
+    "text": "எரச்",
+    "script_language": "tamil"
+  },
+  "polygon_1": {
+    "coordinates": [
+      2362,
+      2634,
+      2665,
+      2762
+    ],
+    "text": "4sanjenbam",
+    "script_language": "english"
+  },
+  "polygon_2": {
+    "coordinates": [
+      1981,
+      3702,
+      2167,
+      3988
+    ],
+    "text": "വികസനം",
+    "script_language": "malayalam"
+  }
+}

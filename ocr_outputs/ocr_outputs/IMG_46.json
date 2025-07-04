@@ -1,0 +1,122 @@
+{
+  "polygon_0": {
+    "coordinates": [
+      1009,
+      919,
+      1281,
+      998
+    ],
+    "text": "58ਏ",
+    "script_language": "punjabi"
+  },
+  "polygon_1": {
+    "coordinates": [
+      1289,
+      955,
+      1663,
+      1030
+    ],
+    "text": "সবাস্যালে  বে ",
+    "script_language": "bengali"
+  },
+  "polygon_2": {
+    "coordinates": [
+      198,
+      946,
+      447,
+      1162
+    ],
+    "text": "ib",
+    "script_language": "english"
+  },
+  "polygon_3": {
+    "coordinates": [
+      705,
+      995,
+      1273,
+      1234
+    ],
+    "text": "ama",
+    "script_language": "english"
+  },
+  "polygon_4": {
+    "coordinates": [
+      1324,
+      1061,
+      2525,
+      1337
+    ],
+    "text": "complex",
+    "script_language": "english"
+  },
+  "polygon_5": {
+    "coordinates": [
+      245,
+      1190,
+      656,
+      1293
+    ],
+    "text": "nambol",
+    "script_language": "english"
+  },
+  "polygon_6": {
+    "coordinates": [
+      678,
+      1223,
+      995,
+      1323
+    ],
+    "text": "sabal",
+    "script_language": "english"
+  },
+  "polygon_7": {
+    "coordinates": [
+      1016,
+      1262,
+      1399,
+      1369
+    ],
+    "text": "leikal",
+    "script_language": "english"
+  },
+  "polygon_8": {
+    "coordinates": [
+      1430,
+      1299,
+      2070,
+      1420
+    ],
+    "text": "bishnupur",
+    "script_language": "english"
+  },
+  "polygon_9": {
+    "coordinates": [
+      824,
+      1328,
+      1307,
+      1437
+    ],
+    "text": "manipur",
+    "script_language": "english"
+  },
+  "polygon_10": {
+    "coordinates": [
+      2093,
+      1352,
+      2379,
+      1447
+    ],
+    "text": "dist",
+    "script_language": "english"
+  },
+  "polygon_11": {
+    "coordinates": [
+      1335,
+      1372,
+      1649,
+      1469
+    ],
+    "text": "795134",
+    "script_language": "english"
+  }
+}

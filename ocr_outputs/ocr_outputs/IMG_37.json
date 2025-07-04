@@ -1,0 +1,72 @@
+{
+  "polygon_0": {
+    "coordinates": [
+      709,
+      1461,
+      1055,
+      1589
+    ],
+    "text": "ஜுஈ",
+    "script_language": "tamil"
+  },
+  "polygon_1": {
+    "coordinates": [
+      1108,
+      1472,
+      1338,
+      1600
+    ],
+    "text": "गाटी",
+    "script_language": "hindi"
+  },
+  "polygon_2": {
+    "coordinates": [
+      1391,
+      1491,
+      1736,
+      1619
+    ],
+    "text": "ஸுல",
+    "script_language": "tamil"
+  },
+  "polygon_3": {
+    "coordinates": [
+      1791,
+      1511,
+      2492,
+      1666
+    ],
+    "text": "ceppersticscocom",
+    "script_language": "english"
+  },
+  "polygon_4": {
+    "coordinates": [
+      940,
+      1694,
+      1129,
+      1844
+    ],
+    "text": "ભ",
+    "script_language": "gujarati"
+  },
+  "polygon_5": {
+    "coordinates": [
+      1274,
+      1730,
+      1567,
+      2051
+    ],
+    "text": "8",
+    "script_language": "gujarati"
+  },
+  "polygon_6": {
+    "coordinates": [
+      2353,
+      1754,
+      2625,
+      2023
+    ],
+    "text": "ભય",
+    "script_language": "gujarati"
+  }
+}

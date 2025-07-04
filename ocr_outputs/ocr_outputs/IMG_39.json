@@ -1,0 +1,62 @@
+{
+  "polygon_0": {
+    "coordinates": [
+      984,
+      1734,
+      1268,
+      1827
+    ],
+    "text": "உலுக்கம்",
+    "script_language": "tamil"
+  },
+  "polygon_1": {
+    "coordinates": [
+      686,
+      1735,
+      960,
+      1831
+    ],
+    "text": "58ਐਸ",
+    "script_language": "punjabi"
+  },
+  "polygon_2": {
+    "coordinates": [
+      2404,
+      1917,
+      2657,
+      2065
+    ],
+    "text": "247",
+    "script_language": "english"
+  },
+  "polygon_3": {
+    "coordinates": [
+      1671,
+      2408,
+      2184,
+      2511
+    ],
+    "text": "mongjing",
+    "script_language": "english"
+  },
+  "polygon_4": {
+    "coordinates": [
+      1129,
+      2412,
+      1644,
+      2501
+    ],
+    "text": "thongkha",
+    "script_language": "english"
+  },
+  "polygon_5": {
+    "coordinates": [
+      693,
+      2421,
+      1088,
+      2508
+    ],
+    "text": "nambol",
+    "script_language": "english"
+  }
+}

@@ -1,0 +1,122 @@
+{
+  "polygon_0": {
+    "coordinates": [
+      726,
+      212,
+      846,
+      244
+    ],
+    "text": "actogen",
+    "script_language": "english"
+  },
+  "polygon_1": {
+    "coordinates": [
+      892,
+      216,
+      1012,
+      249
+    ],
+    "text": "lactogen",
+    "script_language": "english"
+  },
+  "polygon_2": {
+    "coordinates": [
+      755,
+      240,
+      798,
+      260
+    ],
+    "text": "pro",
+    "script_language": "english"
+  },
+  "polygon_3": {
+    "coordinates": [
+      924,
+      244,
+      968,
+      263
+    ],
+    "text": "280",
+    "script_language": "gujarati"
+  },
+  "polygon_4": {
+    "coordinates": [
+      2006,
+      1510,
+      2852,
+      1747
+    ],
+    "text": "50ਾਸਕਾਪੀ",
+    "script_language": "punjabi"
+  },
+  "polygon_5": {
+    "coordinates": [
+      1235,
+      1558,
+      1507,
+      1734
+    ],
+    "text": "पा",
+    "script_language": "hindi"
+  },
+  "polygon_6": {
+    "coordinates": [
+      1529,
+      1556,
+      1850,
+      1739
+    ],
+    "text": "",
+    "script_language": "english"
+  },
+  "polygon_7": {
+    "coordinates": [
+      835,
+      2356,
+      1308,
+      2461
+    ],
+    "text": "nambol",
+    "script_language": "english"
+  },
+  "polygon_8": {
+    "coordinates": [
+      1343,
+      2354,
+      1992,
+      2502
+    ],
+    "text": "thongkha",
+    "script_language": "english"
+  },
+  "polygon_9": {
+    "coordinates": [
+      2041,
+      2360,
+      2613,
+      2507
+    ],
+    "text": "mongjing",
+    "script_language": "english"
+  },
+  "polygon_10": {
+    "coordinates": [
+      139,
+      3063,
+      303,
+      3143
+    ],
+    "text": "mn01",
+    "script_language": "english"
+  },
+  "polygon_11": {
+    "coordinates": [
+      72,
+      3148,
+      110,
+      3176
+    ],
+    "text": "ind",
+    "script_language": "english"
+  }
+}

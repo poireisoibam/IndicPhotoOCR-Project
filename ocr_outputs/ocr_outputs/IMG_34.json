@@ -1,0 +1,142 @@
+{
+  "polygon_0": {
+    "coordinates": [
+      2618,
+      1064,
+      2713,
+      1136
+    ],
+    "text": "ਠੇਤਾ",
+    "script_language": "punjabi"
+  },
+  "polygon_1": {
+    "coordinates": [
+      1981,
+      1072,
+      2127,
+      1148
+    ],
+    "text": "১০ ব্লাম",
+    "script_language": "bengali"
+  },
+  "polygon_2": {
+    "coordinates": [
+      2151,
+      1090,
+      2298,
+      1142
+    ],
+    "text": "hoeo",
+    "script_language": "english"
+  },
+  "polygon_3": {
+    "coordinates": [
+      2317,
+      1090,
+      2444,
+      1141
+    ],
+    "text": "மஂட",
+    "script_language": "tamil"
+  },
+  "polygon_4": {
+    "coordinates": [
+      2464,
+      1088,
+      2601,
+      1145
+    ],
+    "text": "চেত",
+    "script_language": "bengali"
+  },
+  "polygon_5": {
+    "coordinates": [
+      2467,
+      1143,
+      2503,
+      1159
+    ],
+    "text": "ઉજ",
+    "script_language": "gujarati"
+  },
+  "polygon_6": {
+    "coordinates": [
+      2347,
+      1156,
+      2715,
+      1300
+    ],
+    "text": "bar",
+    "script_language": "english"
+  },
+  "polygon_7": {
+    "coordinates": [
+      1598,
+      1159,
+      2297,
+      1310
+    ],
+    "text": "juice",
+    "script_language": "english"
+  },
+  "polygon_8": {
+    "coordinates": [
+      1075,
+      1164,
+      1556,
+      1319
+    ],
+    "text": "cafe",
+    "script_language": "english"
+  },
+  "polygon_9": {
+    "coordinates": [
+      448,
+      1179,
+      1046,
+      1327
+    ],
+    "text": "town",
+    "script_language": "english"
+  },
+  "polygon_10": {
+    "coordinates": [
+      1636,
+      1323,
+      1839,
+      1358
+    ],
+    "text": "bazar",
+    "script_language": "english"
+  },
+  "polygon_11": {
+    "coordinates": [
+      1330,
+      1325,
+      1592,
+      1363
+    ],
+    "text": "nambol",
+    "script_language": "english"
+  },
+  "polygon_12": {
+    "coordinates": [
+      762,
+      2823,
+      948,
+      2896
+    ],
+    "text": "town",
+    "script_language": "english"
+  },
+  "polygon_13": {
+    "coordinates": [
+      796,
+      3022,
+      931,
+      3064
+    ],
+    "text": "cafe",
+    "script_language": "english"
+  }
+}

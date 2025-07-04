@@ -1,0 +1,42 @@
+{
+  "polygon_0": {
+    "coordinates": [
+      847,
+      1551,
+      1076,
+      1708
+    ],
+    "text": "கொண்டு",
+    "script_language": "tamil"
+  },
+  "polygon_1": {
+    "coordinates": [
+      857,
+      2111,
+      1091,
+      2255
+    ],
+    "text": "પર",
+    "script_language": "gujarati"
+  },
+  "polygon_2": {
+    "coordinates": [
+      858,
+      2287,
+      2284,
+      2434
+    ],
+    "text": "jtrader",
+    "script_language": "english"
+  },
+  "polygon_3": {
+    "coordinates": [
+      1759,
+      2544,
+      2441,
+      2750
+    ],
+    "text": "wayto",
+    "script_language": "english"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "polygon_0": {
+    "coordinates": [
+      1051,
+      1636,
+      1839,
+      1806
+    ],
+    "text": "குலவராஜர்கள்",
+    "script_language": "tamil"
+  },
+  "polygon_1": {
+    "coordinates": [
+      806,
+      1651,
+      1006,
+      1758
+    ],
+    "text": "সংক",
+    "script_language": "bengali"
+  },
+  "polygon_2": {
+    "coordinates": [
+      823,
+      1882,
+      2717,
+      2152
+    ],
+    "text": "bhethenterprises",
+    "script_language": "english"
+  },
+  "polygon_3": {
+    "coordinates": [
+      813,
+      2193,
+      1247,
+      2344
+    ],
+    "text": "agro",
+    "script_language": "english"
+  },
+  "polygon_4": {
+    "coordinates": [
+      1291,
+      2206,
+      1612,
+      2352
+    ],
+    "text": "hub",
+    "script_language": "english"
+  }
+}

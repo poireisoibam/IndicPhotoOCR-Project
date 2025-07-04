@@ -1,0 +1,142 @@
+{
+  "polygon_0": {
+    "coordinates": [
+      1765,
+      1272,
+      1999,
+      1405
+    ],
+    "text": "ਰਾਸ",
+    "script_language": "punjabi"
+  },
+  "polygon_1": {
+    "coordinates": [
+      1094,
+      1540,
+      2186,
+      1713
+    ],
+    "text": "पाएएमएए एँ",
+    "script_language": "hindi"
+  },
+  "polygon_2": {
+    "coordinates": [
+      1547,
+      1735,
+      2305,
+      2012
+    ],
+    "text": "orive",
+    "script_language": "english"
+  },
+  "polygon_3": {
+    "coordinates": [
+      1499,
+      2030,
+      2289,
+      2306
+    ],
+    "text": "slow",
+    "script_language": "english"
+  },
+  "polygon_4": {
+    "coordinates": [
+      594,
+      2264,
+      716,
+      2490
+    ],
+    "text": "ਨਿਰਾ",
+    "script_language": "punjabi"
+  },
+  "polygon_5": {
+    "coordinates": [
+      1968,
+      2330,
+      2322,
+      2467
+    ],
+    "text": "school",
+    "script_language": "english"
+  },
+  "polygon_6": {
+    "coordinates": [
+      1753,
+      2345,
+      1947,
+      2473
+    ],
+    "text": "sec",
+    "script_language": "english"
+  },
+  "polygon_7": {
+    "coordinates": [
+      1590,
+      2355,
+      1730,
+      2474
+    ],
+    "text": "hr",
+    "script_language": "english"
+  },
+  "polygon_8": {
+    "coordinates": [
+      1198,
+      2359,
+      1560,
+      2488
+    ],
+    "text": "stephen",
+    "script_language": "english"
+  },
+  "polygon_9": {
+    "coordinates": [
+      1049,
+      2371,
+      1178,
+      2493
+    ],
+    "text": "st",
+    "script_language": "english"
+  },
+  "polygon_10": {
+    "coordinates": [
+      2876,
+      2442,
+      3025,
+      2536
+    ],
+    "text": "sha",
+    "script_language": "english"
+  },
+  "polygon_11": {
+    "coordinates": [
+      2950,
+      2478,
+      3027,
+      2535
+    ],
+    "text": "గీరల",
+    "script_language": "telugu"
+  },
+  "polygon_12": {
+    "coordinates": [
+      1407,
+      2495,
+      1951,
+      2620
+    ],
+    "text": "hiyangthang",
+    "script_language": "english"
+  },
+  "polygon_13": {
+    "coordinates": [
+      2899,
+      2517,
+      2955,
+      2561
+    ],
+    "text": "ளோ",
+    "script_language": "tamil"
+  }
+}

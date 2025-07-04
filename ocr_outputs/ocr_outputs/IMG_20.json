@@ -1,0 +1,102 @@
+{
+  "polygon_0": {
+    "coordinates": [
+      1839,
+      1607,
+      2093,
+      1700
+    ],
+    "text": "ਸਟਰਿੰਗਾ",
+    "script_language": "punjabi"
+  },
+  "polygon_1": {
+    "coordinates": [
+      1381,
+      1621,
+      1568,
+      1699
+    ],
+    "text": "ਹਰਗਿੰਗ",
+    "script_language": "punjabi"
+  },
+  "polygon_2": {
+    "coordinates": [
+      1585,
+      1619,
+      1816,
+      1694
+    ],
+    "text": "জং৫১০ ",
+    "script_language": "assamese"
+  },
+  "polygon_3": {
+    "coordinates": [
+      1977,
+      1736,
+      2617,
+      1946
+    ],
+    "text": "clind",
+    "script_language": "english"
+  },
+  "polygon_4": {
+    "coordinates": [
+      780,
+      1754,
+      1972,
+      1968
+    ],
+    "text": "iddimdenta",
+    "script_language": "english"
+  },
+  "polygon_5": {
+    "coordinates": [
+      2458,
+      1965,
+      2567,
+      2049
+    ],
+    "text": "રા",
+    "script_language": "gujarati"
+  },
+  "polygon_6": {
+    "coordinates": [
+      2279,
+      1972,
+      2440,
+      2079
+    ],
+    "text": "૨૦",
+    "script_language": "gujarati"
+  },
+  "polygon_7": {
+    "coordinates": [
+      2144,
+      1978,
+      2266,
+      2063
+    ],
+    "text": "0",
+    "script_language": "gujarati"
+  },
+  "polygon_8": {
+    "coordinates": [
+      1094,
+      2101,
+      1328,
+      2157
+    ],
+    "text": "bazar",
+    "script_language": "english"
+  },
+  "polygon_9": {
+    "coordinates": [
+      792,
+      2110,
+      1077,
+      2168
+    ],
+    "text": "nambol",
+    "script_language": "english"
+  }
+}

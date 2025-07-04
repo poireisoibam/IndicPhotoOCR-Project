@@ -1,0 +1,102 @@
+{
+  "polygon_0": {
+    "coordinates": [
+      678,
+      1198,
+      940,
+      1365
+    ],
+    "text": "സംസ്ഥാനം",
+    "script_language": "malayalam"
+  },
+  "polygon_1": {
+    "coordinates": [
+      1655,
+      1708,
+      1900,
+      1867
+    ],
+    "text": "പക്ഷപ്പുഴ",
+    "script_language": "malayalam"
+  },
+  "polygon_2": {
+    "coordinates": [
+      2482,
+      2098,
+      2671,
+      2208
+    ],
+    "text": " ",
+    "script_language": "bengali"
+  },
+  "polygon_3": {
+    "coordinates": [
+      2184,
+      2121,
+      2483,
+      2238
+    ],
+    "text": "कोलाए",
+    "script_language": "marathi"
+  },
+  "polygon_4": {
+    "coordinates": [
+      1775,
+      2162,
+      2117,
+      2270
+    ],
+    "text": " ",
+    "script_language": "bengali"
+  },
+  "polygon_5": {
+    "coordinates": [
+      1616,
+      2312,
+      2526,
+      2607
+    ],
+    "text": "hospita",
+    "script_language": "english"
+  },
+  "polygon_6": {
+    "coordinates": [
+      762,
+      2393,
+      1524,
+      2675
+    ],
+    "text": "saiyon",
+    "script_language": "english"
+  },
+  "polygon_7": {
+    "coordinates": [
+      1970,
+      2776,
+      2231,
+      3008
+    ],
+    "text": "2૫",
+    "script_language": "gujarati"
+  },
+  "polygon_8": {
+    "coordinates": [
+      549,
+      2784,
+      1821,
+      3111
+    ],
+    "text": "mergency",
+    "script_language": "english"
+  },
+  "polygon_9": {
+    "coordinates": [
+      708,
+      3102,
+      808,
+      3111
+    ],
+    "text": "21",
+    "script_language": "english"
+  }
+}

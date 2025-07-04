@@ -1,0 +1,132 @@
+{
+  "polygon_0": {
+    "coordinates": [
+      2238,
+      1741,
+      2409,
+      1882
+    ],
+    "text": "रुारेऽ",
+    "script_language": "marathi"
+  },
+  "polygon_1": {
+    "coordinates": [
+      2454,
+      1777,
+      2649,
+      1898
+    ],
+    "text": "యాఇ",
+    "script_language": "telugu"
+  },
+  "polygon_2": {
+    "coordinates": [
+      2770,
+      3342,
+      2900,
+      3407
+    ],
+    "text": "ਸਵਰੂ",
+    "script_language": "punjabi"
+  },
+  "polygon_3": {
+    "coordinates": [
+      2844,
+      3398,
+      2886,
+      3416
+    ],
+    "text": "ee",
+    "script_language": "malayalam"
+  },
+  "polygon_4": {
+    "coordinates": [
+      2788,
+      3422,
+      2856,
+      3439
+    ],
+    "text": "zamani",
+    "script_language": "english"
+  },
+  "polygon_5": {
+    "coordinates": [
+      2857,
+      3421,
+      2883,
+      3438
+    ],
+    "text": "07",
+    "script_language": "punjabi"
+  },
+  "polygon_6": {
+    "coordinates": [
+      2884,
+      3420,
+      2941,
+      3437
+    ],
+    "text": "হতেও",
+    "script_language": "assamese"
+  },
+  "polygon_7": {
+    "coordinates": [
+      2741,
+      3423,
+      2788,
+      3440
+    ],
+    "text": "સરાજકરી",
+    "script_language": "gujarati"
+  },
+  "polygon_8": {
+    "coordinates": [
+      2077,
+      3654,
+      2170,
+      3703
+    ],
+    "text": "૧૪",
+    "script_language": "gujarati"
+  },
+  "polygon_9": {
+    "coordinates": [
+      1637,
+      3666,
+      1766,
+      3737
+    ],
+    "text": "ભય",
+    "script_language": "gujarati"
+  },
+  "polygon_10": {
+    "coordinates": [
+      2199,
+      3854,
+      2268,
+      3927
+    ],
+    "text": "mom",
+    "script_language": "english"
+  },
+  "polygon_11": {
+    "coordinates": [
+      2272,
+      3878,
+      2347,
+      3924
+    ],
+    "text": "made",
+    "script_language": "english"
+  },
+  "polygon_12": {
+    "coordinates": [
+      2203,
+      3923,
+      2349,
+      3974
+    ],
+    "text": "11015",
+    "script_language": "gujarati"
+  }
+}

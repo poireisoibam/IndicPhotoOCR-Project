@@ -1,0 +1,32 @@
+{
+  "polygon_0": {
+    "coordinates": [
+      367,
+      262,
+      508,
+      300
+    ],
+    "text": "ডিব্ৰুগড়",
+    "script_language": "assamese"
+  },
+  "polygon_1": {
+    "coordinates": [
+      366,
+      299,
+      508,
+      340
+    ],
+    "text": "डिब्रुगढ़",
+    "script_language": "hindi"
+  },
+  "polygon_2": {
+    "coordinates": [
+      351,
+      343,
+      525,
+      370
+    ],
+    "text": "oibrugarh",
+    "script_language": "english"
+  }
+}

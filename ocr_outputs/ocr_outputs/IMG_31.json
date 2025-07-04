@@ -1,0 +1,132 @@
+{
+  "polygon_0": {
+    "coordinates": [
+      2331,
+      1788,
+      2538,
+      1872
+    ],
+    "text": "ਸਥਾ",
+    "script_language": "punjabi"
+  },
+  "polygon_1": {
+    "coordinates": [
+      2590,
+      1784,
+      2752,
+      1913
+    ],
+    "text": "ਠਟੂ",
+    "script_language": "punjabi"
+  },
+  "polygon_2": {
+    "coordinates": [
+      1092,
+      1847,
+      1712,
+      2075
+    ],
+    "text": "blue",
+    "script_language": "english"
+  },
+  "polygon_3": {
+    "coordinates": [
+      2029,
+      2071,
+      2051,
+      2145
+    ],
+    "text": "૧",
+    "script_language": "gujarati"
+  },
+  "polygon_4": {
+    "coordinates": [
+      2475,
+      2072,
+      2684,
+      2129
+    ],
+    "text": "steam",
+    "script_language": "english"
+  },
+  "polygon_5": {
+    "coordinates": [
+      2706,
+      2071,
+      2838,
+      2127
+    ],
+    "text": "iron",
+    "script_language": "english"
+  },
+  "polygon_6": {
+    "coordinates": [
+      2214,
+      2070,
+      2398,
+      2130
+    ],
+    "text": "clean",
+    "script_language": "english"
+  },
+  "polygon_7": {
+    "coordinates": [
+      1728,
+      2071,
+      1998,
+      2146
+    ],
+    "text": "laundry",
+    "script_language": "english"
+  },
+  "polygon_8": {
+    "coordinates": [
+      2079,
+      2074,
+      2194,
+      2144
+    ],
+    "text": "dry",
+    "script_language": "english"
+  },
+  "polygon_9": {
+    "coordinates": [
+      2419,
+      2163,
+      2850,
+      2216
+    ],
+    "text": "wwwmrbluein",
+    "script_language": "english"
+  },
+  "polygon_10": {
+    "coordinates": [
+      2110,
+      2167,
+      2275,
+      2215
+    ],
+    "text": "00059",
+    "script_language": "english"
+  },
+  "polygon_11": {
+    "coordinates": [
+      1923,
+      2169,
+      2089,
+      2217
+    ],
+    "text": "95559",
+    "script_language": "english"
+  },
+  "polygon_12": {
+    "coordinates": [
+      1810,
+      2171,
+      1908,
+      2217
+    ],
+    "text": "91",
+    "script_language": "english"
+  }
+}

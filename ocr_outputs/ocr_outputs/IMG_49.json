@@ -1,0 +1,72 @@
+{
+  "polygon_0": {
+    "coordinates": [
+      1659,
+      1277,
+      2084,
+      1453
+    ],
+    "text": "joeppy",
+    "script_language": "english"
+  },
+  "polygon_1": {
+    "coordinates": [
+      904,
+      1282,
+      1404,
+      1472
+    ],
+    "text": " ",
+    "script_language": "bengali"
+  },
+  "polygon_2": {
+    "coordinates": [
+      1467,
+      1292,
+      1655,
+      1449
+    ],
+    "text": "erp",
+    "script_language": "english"
+  },
+  "polygon_3": {
+    "coordinates": [
+      1549,
+      1500,
+      2406,
+      1732
+    ],
+    "text": "611641",
+    "script_language": "gujarati"
+  },
+  "polygon_4": {
+    "coordinates": [
+      820,
+      1539,
+      1475,
+      1766
+    ],
+    "text": "ysana",
+    "script_language": "english"
+  },
+  "polygon_5": {
+    "coordinates": [
+      1426,
+      2031,
+      1921,
+      2249
+    ],
+    "text": "nzak",
+    "script_language": "english"
+  },
+  "polygon_6": {
+    "coordinates": [
+      1063,
+      2058,
+      1295,
+      2262
+    ],
+    "text": "ઉમ",
+    "script_language": "gujarati"
+  }
+}

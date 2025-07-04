@@ -1,0 +1,132 @@
+{
+  "polygon_0": {
+    "coordinates": [
+      1632,
+      1698,
+      1968,
+      1807
+    ],
+    "text": "চডমাঈ",
+    "script_language": "bengali"
+  },
+  "polygon_1": {
+    "coordinates": [
+      1408,
+      1700,
+      1596,
+      1800
+    ],
+    "text": "ਗਰਂਹ   ",
+    "script_language": "punjabi"
+  },
+  "polygon_2": {
+    "coordinates": [
+      804,
+      1711,
+      1070,
+      1799
+    ],
+    "text": "లూ౪",
+    "script_language": "telugu"
+  },
+  "polygon_3": {
+    "coordinates": [
+      1111,
+      1713,
+      1370,
+      1797
+    ],
+    "text": "8m",
+    "script_language": "english"
+  },
+  "polygon_4": {
+    "coordinates": [
+      963,
+      1835,
+      1335,
+      1965
+    ],
+    "text": "भारतीय",
+    "script_language": "hindi"
+  },
+  "polygon_5": {
+    "coordinates": [
+      1353,
+      1839,
+      1572,
+      1968
+    ],
+    "text": "स्‍टेट",
+    "script_language": "hindi"
+  },
+  "polygon_6": {
+    "coordinates": [
+      1591,
+      1842,
+      1798,
+      1981
+    ],
+    "text": "बैंक",
+    "script_language": "hindi"
+  },
+  "polygon_7": {
+    "coordinates": [
+      740,
+      2011,
+      1055,
+      2116
+    ],
+    "text": "state",
+    "script_language": "english"
+  },
+  "polygon_8": {
+    "coordinates": [
+      1094,
+      2016,
+      1427,
+      2121
+    ],
+    "text": "bank",
+    "script_language": "english"
+  },
+  "polygon_9": {
+    "coordinates": [
+      1463,
+      2022,
+      1630,
+      2126
+    ],
+    "text": "of",
+    "script_language": "english"
+  },
+  "polygon_10": {
+    "coordinates": [
+      1668,
+      2025,
+      2008,
+      2136
+    ],
+    "text": "india",
+    "script_language": "english"
+  },
+  "polygon_11": {
+    "coordinates": [
+      932,
+      2245,
+      1358,
+      2335
+    ],
+    "text": "nambol",
+    "script_language": "english"
+  },
+  "polygon_12": {
+    "coordinates": [
+      1391,
+      2252,
+      1803,
+      2343
+    ],
+    "text": "branch",
+    "script_language": "english"
+  }
+}
