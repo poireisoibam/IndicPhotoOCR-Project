@@ -38,15 +38,11 @@ pip install -r requirements.txt
 
 ## 🖼️ Usage
 
-### Run OCR on a single image:
-```bash
-python scripts/single_image_test/test_ocr_5.py
-```
-
 ### Run OCR on a folder of images:
 ```bash
-python scripts/test_ocr.py
+python scripts/ocr.py
 ```
+Check scripts for more...
 
 ## 📦 Output Format
 
@@ -54,16 +50,27 @@ python scripts/test_ocr.py
 ```json
 {
   "img_0": {
-    "txt": "भारतीय",
-    "bbox": [45, 12, 180, 60]
+    "annotations": {
+      "polygon_0": {
+        "coordinates": [
+          [45, 12],    // top-left
+          [180, 12],   // top-right
+          [180, 60],   // bottom-right
+          [45, 60]     // bottom-left
+        ],
+        "text": "भारतीय",
+        "script_language": "hindi"
+      }
+    }
   }
 }
+
 ```
 
 ### CSV (example):
-| image       | text     | bbox             |
-|-------------|----------|------------------|
-| IMG_1.JPG   | भारतीय   | [45, 12, 180, 60] |
+| image       | text     | bbox             |  script language
+|-------------|----------|------------------|------------------|
+| IMG_1.JPG   | भारतीय   | [45, 12, 180, 60] |       hindi
 
 ## 📜 License
 
