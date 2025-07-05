@@ -42,7 +42,7 @@ wrr = correct / total_gt if total_gt > 0 else 0
 result = {
     "total_ground_truth_words": total_gt,
     "correctly_recognized_words": correct,
-    "wrr_case_insensitive": round(wrr, 4)
+    "wrr": round(wrr, 4)
 }
 
 # === Save to file ===
