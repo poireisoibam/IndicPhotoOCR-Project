@@ -1,0 +1,5 @@
+{
+  "total_ground_truth_words": 620,
+  "correctly_recognized_words": 234,
+  "wrr_case_insensitive": 0.3774
+}
