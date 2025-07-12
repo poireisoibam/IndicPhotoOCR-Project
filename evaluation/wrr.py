@@ -1,7 +1,7 @@
 import json
 
 # === File paths ===
-gt_path = "annotations/annotations-files/Converted_json/converted_annotations.json"  # your GT file
+gt_path = "annotations/annotations-files/Converted_json/converted_annotations_without_meitei.json"  # your GT file
 ocr_path = "ocr_outputs/ocr_combined_output_poly.json"  # your OCR file
 output_path = "evaluation_result.json"
 
