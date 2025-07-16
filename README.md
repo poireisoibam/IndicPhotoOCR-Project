@@ -72,6 +72,29 @@ Check scripts for more...
 |-------------|----------|------------------|------------------|
 | IMG_1.JPG   | भारतीय   | [45, 12, 180, 60] |       hindi
 
+
+##🙌 Contribution to Main IndicPhotoOCR
+
+This dataset and evaluation result set was created to enhance the IndicPhotoOCRIndicPhotoOCR benchmark (https://github.com/Bhashini-IITJ/IndicPhotoOCR).
+
+To contribute:
+
+Fork the original repository
+Commit your dataset/scripts/improvements
+Open a Pull Request (PR) describing your additions
+
+##🎓 Acknowledgement
+
+For the successful completion of my project, I would like to thank:
+
+Internship Guide:
+👨‍🏫 Prof. Anand Mishra
+Department of Computer Science & Engineering,
+Indian Institute of Technology Jodhpur.
+
+Internship Mentor:
+👨‍💻 Prof. Anik De Department of Computer Science & Engineering,
+Indian Institute of Technology Jodhpur.
 ## 📜 License
 
 [MIT License](LICENSE)
