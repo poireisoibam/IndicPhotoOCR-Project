@@ -77,11 +77,6 @@ Check scripts for more...
 
 This dataset and evaluation result set was created to enhance the IndicPhotoOCRIndicPhotoOCR benchmark (https://github.com/Bhashini-IITJ/IndicPhotoOCR).
 
-To contribute:
-
-Fork the original repository
-Commit your dataset/scripts/improvements
-Open a Pull Request (PR) describing your additions
 
 🎓 Acknowledgement
 
@@ -95,6 +90,7 @@ Indian Institute of Technology Jodhpur.
 Internship Mentor:
 👨‍💻 Prof. Anik De Department of Computer Science & Engineering,
 Indian Institute of Technology Jodhpur.
+
 ## 📜 License
 
 [MIT License](LICENSE)
