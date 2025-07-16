@@ -73,7 +73,7 @@ Check scripts for more...
 | IMG_1.JPG   | भारतीय   | [45, 12, 180, 60] |       hindi
 
 
-##🙌 Contribution to Main IndicPhotoOCR
+🙌 Contribution to Main IndicPhotoOCR
 
 This dataset and evaluation result set was created to enhance the IndicPhotoOCRIndicPhotoOCR benchmark (https://github.com/Bhashini-IITJ/IndicPhotoOCR).
 
@@ -83,7 +83,7 @@ Fork the original repository
 Commit your dataset/scripts/improvements
 Open a Pull Request (PR) describing your additions
 
-##🎓 Acknowledgement
+🎓 Acknowledgement
 
 For the successful completion of my project, I would like to thank:
 
