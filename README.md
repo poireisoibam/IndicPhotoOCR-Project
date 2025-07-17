@@ -82,7 +82,7 @@ This dataset and evaluation result set was created to enhance the IndicPhotoOCRI
 
 For the successful completion of my project, I would like to thank:
 
-Internship Guide:
+Internship Supervisor:
 👨‍🏫 Prof. Anand Mishra
 Department of Computer Science & Engineering,
 Indian Institute of Technology Jodhpur.
