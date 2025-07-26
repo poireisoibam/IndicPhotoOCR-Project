@@ -89,7 +89,7 @@ python scripts/ocr.py
 
 To evaluate the OCR performance using annotated ground-truth files:
 ```bash
-python scripts/evaluate.py
+python scripts/evaluation/wrr.py
 ```
 Results (including per-language Word Recognition Rate or WRR) will be saved as a JSON summary in the `ocr_outputs/` directory.
 
