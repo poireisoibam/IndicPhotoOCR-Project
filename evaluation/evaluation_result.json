@@ -1,0 +1,42 @@
+{
+  "total_ground_truth_words": 620,
+  "correctly_recognized_words": 234,
+  "overall_wrr": 0.3774,
+  "per_language_wrr": {
+    "english": {
+      "total": 554,
+      "correct": 200,
+      "wrr": 0.361
+    },
+    "assamese": {
+      "total": 5,
+      "correct": 1,
+      "wrr": 0.2
+    },
+    "hindi": {
+      "total": 21,
+      "correct": 4,
+      "wrr": 0.1905
+    },
+    "gujarati": {
+      "total": 30,
+      "correct": 29,
+      "wrr": 0.9667
+    },
+    "bengali": {
+      "total": 7,
+      "correct": 0,
+      "wrr": 0.0
+    },
+    "rnglish": {
+      "total": 1,
+      "correct": 0,
+      "wrr": 0.0
+    },
+    "": {
+      "total": 2,
+      "correct": 0,
+      "wrr": 0.0
+    }
+  }
+}
