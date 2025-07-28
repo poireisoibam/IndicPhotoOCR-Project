@@ -112,7 +112,7 @@ Department of Computer Science & Engineering
 Indian Institute of Technology Jodhpur
 
 **Internship Mentor**  
-👨‍💻 Prof. Anik De  
+👨‍💻 Sir Anik De  
 Department of Computer Science & Engineering  
 Indian Institute of Technology Jodhpur
 
