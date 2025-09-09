@@ -1,0 +1,6 @@
+language,total,correct,wrr
+english,498,365,0.7329
+assamese,5,4,0.8
+hindi,21,11,0.5238
+gujarati,30,29,0.9667
+overall,554,409,0.7383
